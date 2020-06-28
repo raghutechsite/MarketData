@@ -12,7 +12,7 @@
 		"name":"Camarilla pivot",
 		"status":"active",
 		"url": "null",
-		"desc":"null"
+		"desc":"null",
 		"apppackage":"com.techsite.camarillapivot"
 	},
 	{
@@ -20,7 +20,7 @@
 		"name":"OHL Scanner",
 		"status":"active",
 		"url": "null",
-		"desc":"null"
+		"desc":"null",
 		"apppackage":"com.techsite.highlowscanner"
 	},
 	{
@@ -28,6 +28,6 @@
 		"name":"Fibonacci levels & retrace",
 		"status":"active",
 		"url": "null",
-		"desc":"null"
+		"desc":"null",
 		"apppackage":"com.techsite.fibonaccilevels"
 	}]}

@@ -2,7 +2,7 @@
 	{
 		"slno":"0",
 		"name":"Market data",
-		"status":"active",
+		"status":"inactive",
 		"url": "null",
 		"desc":"null",
 		"apppackage":"com.techsite.marketdata"

@@ -5,7 +5,7 @@
 		"status":"active",
 		"url": "null",
 		"desc":"null",
-		"package":"com.techsite.marketdata",
+		"package":"com.techsite.marketdata"
 	},
 	{
 		"slno":"1",
@@ -13,7 +13,7 @@
 		"status":"active",
 		"url": "null",
 		"desc":"null"
-		"package":"com.techsite.camarillapivot",
+		"package":"com.techsite.camarillapivot"
 	},
 	{
 		"slno":"2",
@@ -21,7 +21,7 @@
 		"status":"active",
 		"url": "null",
 		"desc":"null"
-		"package":"com.techsite.highlowscanner",
+		"package":"com.techsite.highlowscanner"
 	},
 	{
 		"slno":"3",
@@ -29,5 +29,5 @@
 		"status":"active",
 		"url": "null",
 		"desc":"null"
-		"package":"com.techsite.fibonaccilevels",
+		"package":"com.techsite.fibonaccilevels"
 	}]}

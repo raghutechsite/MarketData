@@ -1,4952 +1,4988 @@
 {"data":[
   {
-    "SYMBOLS": "20MICRONS"
+    "SYMBOL": "20MICRONS"
   },
   {
-    "SYMBOLS": "21STCENMGM"
+    "SYMBOL": "21STCENMGM"
   },
   {
-    "SYMBOLS": "3IINFOTECH"
+    "SYMBOL": "3IINFOTECH"
   },
   {
-    "SYMBOLS": "3MINDIA"
+    "SYMBOL": "3MINDIA"
   },
   {
-    "SYMBOLS": "3PLAND"
+    "SYMBOL": "3PLAND"
   },
   {
-    "SYMBOLS": "5PAISA"
+    "SYMBOL": "5PAISA"
   },
   {
-    "SYMBOLS": "63MOONS"
+    "SYMBOL": "63MOONS"
   },
   {
-    "SYMBOLS": "8KMILES"
+    "SYMBOL": "8KMILES"
   },
   {
-    "SYMBOLS": "A2ZINFRA"
+    "SYMBOL": "A2ZINFRA"
   },
   {
-    "SYMBOLS": "AAKASH"
+    "SYMBOL": "AAKASH"
   },
   {
-    "SYMBOLS": "AARTIDRUGS"
+    "SYMBOL": "AARON"
   },
   {
-    "SYMBOLS": "AARTIIND"
+    "SYMBOL": "AARTIDRUGS"
   },
   {
-    "SYMBOLS": "AARTISURF"
+    "SYMBOL": "AARTIIND"
   },
   {
-    "SYMBOLS": "AARVEEDEN"
+    "SYMBOL": "AARTISURF"
   },
   {
-    "SYMBOLS": "AARVI"
+    "SYMBOL": "AARVEEDEN"
   },
   {
-    "SYMBOLS": "AAVAS"
+    "SYMBOL": "AARVI"
   },
   {
-    "SYMBOLS": "ABAN"
+    "SYMBOL": "AAVAS"
   },
   {
-    "SYMBOLS": "ABB"
+    "SYMBOL": "ABAN"
   },
   {
-    "SYMBOLS": "ABBOTINDIA"
+    "SYMBOL": "ABB"
   },
   {
-    "SYMBOLS": "ABCAPITAL"
+    "SYMBOL": "ABBOTINDIA"
   },
   {
-    "SYMBOLS": "ABFRL"
+    "SYMBOL": "ABCAPITAL"
   },
   {
-    "SYMBOLS": "ABMINTLTD"
+    "SYMBOL": "ABFRL"
   },
   {
-    "SYMBOLS": "ACC"
+    "SYMBOL": "ABMINTLTD"
   },
   {
-    "SYMBOLS": "ACCELYA"
+    "SYMBOL": "ACC"
   },
   {
-    "SYMBOLS": "ACE"
+    "SYMBOL": "ACCELYA"
   },
   {
-    "SYMBOLS": "ADANIENT"
+    "SYMBOL": "ACCURACY"
   },
   {
-    "SYMBOLS": "ADANIGAS"
+    "SYMBOL": "ACE"
   },
   {
-    "SYMBOLS": "ADANIGREEN"
+    "SYMBOL": "ADANIENT"
   },
   {
-    "SYMBOLS": "ADANIPORTS"
+    "SYMBOL": "ADANIGAS"
   },
   {
-    "SYMBOLS": "ADANIPOWER"
+    "SYMBOL": "ADANIGREEN"
   },
   {
-    "SYMBOLS": "ADANITRANS"
+    "SYMBOL": "ADANIPORTS"
   },
   {
-    "SYMBOLS": "ADFFOODS"
+    "SYMBOL": "ADANIPOWER"
   },
   {
-    "SYMBOLS": "ADHUNIKIND"
+    "SYMBOL": "ADANITRANS"
   },
   {
-    "SYMBOLS": "ADL"
+    "SYMBOL": "ADFFOODS"
   },
   {
-    "SYMBOLS": "ADORWELD"
+    "SYMBOL": "ADHUNIKIND"
   },
   {
-    "SYMBOLS": "ADROITINFO"
+    "SYMBOL": "ADL"
   },
   {
-    "SYMBOLS": "ADSL"
+    "SYMBOL": "ADORWELD"
   },
   {
-    "SYMBOLS": "ADVANIHOTR"
+    "SYMBOL": "ADROITINFO"
   },
   {
-    "SYMBOLS": "ADVENZYMES"
+    "SYMBOL": "ADSL"
   },
   {
-    "SYMBOLS": "AEGISCHEM"
+    "SYMBOL": "ADVANIHOTR"
   },
   {
-    "SYMBOLS": "AFFLE"
+    "SYMBOL": "ADVENZYMES"
   },
   {
-    "SYMBOLS": "AGARIND"
+    "SYMBOL": "AEGISCHEM"
   },
   {
-    "SYMBOLS": "AGCNET"
+    "SYMBOL": "AFFLE"
   },
   {
-    "SYMBOLS": "AGRITECH"
+    "SYMBOL": "AGARIND"
   },
   {
-    "SYMBOLS": "AGROPHOS"
+    "SYMBOL": "AGCNET"
   },
   {
-    "SYMBOLS": "AHLEAST"
+    "SYMBOL": "AGRITECH"
   },
   {
-    "SYMBOLS": "AHLUCONT"
+    "SYMBOL": "AGROPHOS"
   },
   {
-    "SYMBOLS": "AHLWEST"
+    "SYMBOL": "AHLEAST"
   },
   {
-    "SYMBOLS": "AIAENG"
+    "SYMBOL": "AHLUCONT"
   },
   {
-    "SYMBOLS": "AIONJSW"
+    "SYMBOL": "AHLWEST"
   },
   {
-    "SYMBOLS": "AIRAN"
+    "SYMBOL": "AIAENG"
   },
   {
-    "SYMBOLS": "AJANTPHARM"
+    "SYMBOL": "AIRAN"
   },
   {
-    "SYMBOLS": "AJMERA"
+    "SYMBOL": "AJANTPHARM"
   },
   {
-    "SYMBOLS": "AKASH"
+    "SYMBOL": "AJMERA"
   },
   {
-    "SYMBOLS": "AKSHARCHEM"
+    "SYMBOL": "AKASH"
   },
   {
-    "SYMBOLS": "AKSHOPTFBR"
+    "SYMBOL": "AKSHARCHEM"
   },
   {
-    "SYMBOLS": "AKZOINDIA"
+    "SYMBOL": "AKSHOPTFBR"
   },
   {
-    "SYMBOLS": "ALANKIT"
+    "SYMBOL": "AKZOINDIA"
   },
   {
-    "SYMBOLS": "ALBERTDAVD"
+    "SYMBOL": "ALANKIT"
   },
   {
-    "SYMBOLS": "ALCHEM"
+    "SYMBOL": "ALBERTDAVD"
   },
   {
-    "SYMBOLS": "ALEMBICLTD"
+    "SYMBOL": "ALCHEM"
   },
   {
-    "SYMBOLS": "ALICON"
+    "SYMBOL": "ALEMBICLTD"
   },
   {
-    "SYMBOLS": "ALKALI"
+    "SYMBOL": "ALICON"
   },
   {
-    "SYMBOLS": "ALKEM"
+    "SYMBOL": "ALKALI"
   },
   {
-    "SYMBOLS": "ALKYLAMINE"
+    "SYMBOL": "ALKEM"
   },
   {
-    "SYMBOLS": "ALLCARGO"
+    "SYMBOL": "ALKYLAMINE"
   },
   {
-    "SYMBOLS": "ALLSEC"
+    "SYMBOL": "ALLCARGO"
   },
   {
-    "SYMBOLS": "ALMONDZ"
+    "SYMBOL": "ALLSEC"
   },
   {
-    "SYMBOLS": "ALOKINDS"
+    "SYMBOL": "ALMONDZ"
   },
   {
-    "SYMBOLS": "ALPA"
+    "SYMBOL": "ALOKINDS"
   },
   {
-    "SYMBOLS": "ALPHAGEO"
+    "SYMBOL": "ALPA"
   },
   {
-    "SYMBOLS": "ALPSINDUS"
+    "SYMBOL": "ALPHAGEO"
   },
   {
-    "SYMBOLS": "AMARAJABAT"
+    "SYMBOL": "ALPSINDUS"
   },
   {
-    "SYMBOLS": "AMBER"
+    "SYMBOL": "AMARAJABAT"
   },
   {
-    "SYMBOLS": "AMBIKCO"
+    "SYMBOL": "AMBER"
   },
   {
-    "SYMBOLS": "AMBUJACEM"
+    "SYMBOL": "AMBIKCO"
   },
   {
-    "SYMBOLS": "AMDIND"
+    "SYMBOL": "AMBUJACEM"
   },
   {
-    "SYMBOLS": "AMJLAND"
+    "SYMBOL": "AMDIND"
   },
   {
-    "SYMBOLS": "AMRUTANJAN"
+    "SYMBOL": "AMJLAND"
   },
   {
-    "SYMBOLS": "ANANTRAJ"
+    "SYMBOL": "AMRUTANJAN"
   },
   {
-    "SYMBOLS": "ANDHRACEMT"
+    "SYMBOL": "ANANTRAJ"
   },
   {
-    "SYMBOLS": "ANDHRAPAP"
+    "SYMBOL": "ANDHRACEMT"
   },
   {
-    "SYMBOLS": "ANDHRSUGAR"
+    "SYMBOL": "ANDHRAPAP"
   },
   {
-    "SYMBOLS": "ANGELBRKG"
+    "SYMBOL": "ANDHRSUGAR"
   },
   {
-    "SYMBOLS": "ANIKINDS"
+    "SYMBOL": "ANGELBRKG"
   },
   {
-    "SYMBOLS": "ANKITMETAL"
+    "SYMBOL": "ANIKINDS"
   },
   {
-    "SYMBOLS": "ANSALAPI"
+    "SYMBOL": "ANKITMETAL"
   },
   {
-    "SYMBOLS": "ANSALHSG"
+    "SYMBOL": "ANSALAPI"
   },
   {
-    "SYMBOLS": "ANUP"
+    "SYMBOL": "ANSALHSG"
   },
   {
-    "SYMBOLS": "APARINDS"
+    "SYMBOL": "ANUP"
   },
   {
-    "SYMBOLS": "APCL"
+    "SYMBOL": "APARINDS"
   },
   {
-    "SYMBOLS": "APCOTEXIND"
+    "SYMBOL": "APCL"
   },
   {
-    "SYMBOLS": "APEX"
+    "SYMBOL": "APCOTEXIND"
   },
   {
-    "SYMBOLS": "APLAPOLLO"
+    "SYMBOL": "APEX"
   },
   {
-    "SYMBOLS": "APLLTD"
+    "SYMBOL": "APLAPOLLO"
   },
   {
-    "SYMBOLS": "APOLLO"
+    "SYMBOL": "APLLTD"
   },
   {
-    "SYMBOLS": "APOLLOHOSP"
+    "SYMBOL": "APOLLO"
   },
   {
-    "SYMBOLS": "APOLLOPIPE"
+    "SYMBOL": "APOLLOHOSP"
   },
   {
-    "SYMBOLS": "APOLLOTYRE"
+    "SYMBOL": "APOLLOPIPE"
   },
   {
-    "SYMBOLS": "APOLSINHOT"
+    "SYMBOL": "APOLLOTYRE"
   },
   {
-    "SYMBOLS": "APTECHT"
+    "SYMBOL": "APOLSINHOT"
   },
   {
-    "SYMBOLS": "ARCHIDPLY"
+    "SYMBOL": "APTECHT"
   },
   {
-    "SYMBOLS": "ARCHIES"
+    "SYMBOL": "ARCHIDPLY"
   },
   {
-    "SYMBOLS": "ARCOTECH"
+    "SYMBOL": "ARCHIES"
   },
   {
-    "SYMBOLS": "ARENTERP"
+    "SYMBOL": "ARCOTECH"
   },
   {
-    "SYMBOLS": "ARIES"
+    "SYMBOL": "ARENTERP"
   },
   {
-    "SYMBOLS": "ARIHANT"
+    "SYMBOL": "ARIES"
   },
   {
-    "SYMBOLS": "ARIHANTSUP"
+    "SYMBOL": "ARIHANT"
   },
   {
-    "SYMBOLS": "ARMANFIN"
+    "SYMBOL": "ARIHANTSUP"
   },
   {
-    "SYMBOLS": "AROGRANITE"
+    "SYMBOL": "ARMANFIN"
   },
   {
-    "SYMBOLS": "ARROWGREEN"
+    "SYMBOL": "AROGRANITE"
   },
   {
-    "SYMBOLS": "ARSHIYA"
+    "SYMBOL": "ARROWGREEN"
   },
   {
-    "SYMBOLS": "ARSSINFRA"
+    "SYMBOL": "ARSHIYA"
   },
   {
-    "SYMBOLS": "ARTEMISMED"
+    "SYMBOL": "ARSSINFRA"
   },
   {
-    "SYMBOLS": "ARVIND"
+    "SYMBOL": "ARTEMISMED"
   },
   {
-    "SYMBOLS": "ARVINDFASN"
+    "SYMBOL": "ARVIND"
   },
   {
-    "SYMBOLS": "ARVSMART"
+    "SYMBOL": "ARVINDFASN"
   },
   {
-    "SYMBOLS": "ASAHIINDIA"
+    "SYMBOL": "ARVSMART"
   },
   {
-    "SYMBOLS": "ASAHISONG"
+    "SYMBOL": "ASAHIINDIA"
   },
   {
-    "SYMBOLS": "ASAL"
+    "SYMBOL": "ASAHISONG"
   },
   {
-    "SYMBOLS": "ASALCBR"
+    "SYMBOL": "ASAL"
   },
   {
-    "SYMBOLS": "ASHAPURMIN"
+    "SYMBOL": "ASALCBR"
   },
   {
-    "SYMBOLS": "ASHIANA"
+    "SYMBOL": "ASHAPURMIN"
   },
   {
-    "SYMBOLS": "ASHIMASYN"
+    "SYMBOL": "ASHIANA"
   },
   {
-    "SYMBOLS": "ASHOKA"
+    "SYMBOL": "ASHIMASYN"
   },
   {
-    "SYMBOLS": "ASHOKLEY"
+    "SYMBOL": "ASHOKA"
   },
   {
-    "SYMBOLS": "ASIANHOTNR"
+    "SYMBOL": "ASHOKLEY"
   },
   {
-    "SYMBOLS": "ASIANPAINT"
+    "SYMBOL": "ASIANHOTNR"
   },
   {
-    "SYMBOLS": "ASIANTILES"
+    "SYMBOL": "ASIANPAINT"
   },
   {
-    "SYMBOLS": "ASPINWALL"
+    "SYMBOL": "ASIANTILES"
   },
   {
-    "SYMBOLS": "ASTEC"
+    "SYMBOL": "ASPINWALL"
   },
   {
-    "SYMBOLS": "ASTERDM"
+    "SYMBOL": "ASTEC"
   },
   {
-    "SYMBOLS": "ASTRAL"
+    "SYMBOL": "ASTERDM"
   },
   {
-    "SYMBOLS": "ASTRAMICRO"
+    "SYMBOL": "ASTRAL"
   },
   {
-    "SYMBOLS": "ASTRAZEN"
+    "SYMBOL": "ASTRAMICRO"
   },
   {
-    "SYMBOLS": "ASTRON"
+    "SYMBOL": "ASTRAZEN"
   },
   {
-    "SYMBOLS": "ATFL"
+    "SYMBOL": "ASTRON"
   },
   {
-    "SYMBOLS": "ATLANTA"
+    "SYMBOL": "ATFL"
   },
   {
-    "SYMBOLS": "ATLASCYCLE"
+    "SYMBOL": "ATLANTA"
   },
   {
-    "SYMBOLS": "ATUL"
+    "SYMBOL": "ATLASCYCLE"
   },
   {
-    "SYMBOLS": "ATULAUTO"
+    "SYMBOL": "ATUL"
   },
   {
-    "SYMBOLS": "AUBANK"
+    "SYMBOL": "ATULAUTO"
   },
   {
-    "SYMBOLS": "AURIONPRO"
+    "SYMBOL": "AUBANK"
   },
   {
-    "SYMBOLS": "AUROPHARMA"
+    "SYMBOL": "AURIONPRO"
   },
   {
-    "SYMBOLS": "AUSOMENT"
+    "SYMBOL": "AUROPHARMA"
   },
   {
-    "SYMBOLS": "AUTOAXLES"
+    "SYMBOL": "AUSOMENT"
   },
   {
-    "SYMBOLS": "AUTOIND"
+    "SYMBOL": "AUTOAXLES"
   },
   {
-    "SYMBOLS": "AUTOLITIND"
+    "SYMBOL": "AUTOIND"
   },
   {
-    "SYMBOLS": "AVADHSUGAR"
+    "SYMBOL": "AUTOLITIND"
   },
   {
-    "SYMBOLS": "AVANTIFEED"
+    "SYMBOL": "AVADHSUGAR"
   },
   {
-    "SYMBOLS": "AVTNPL"
+    "SYMBOL": "AVANTIFEED"
   },
   {
-    "SYMBOLS": "AXISBANK"
+    "SYMBOL": "AVTNPL"
   },
   {
-    "SYMBOLS": "AXISCADES"
+    "SYMBOL": "AXISBANK"
   },
   {
-    "SYMBOLS": "AYMSYNTEX"
+    "SYMBOL": "AXISCADES"
   },
   {
-    "SYMBOLS": "BAFNAPH"
+    "SYMBOL": "AYMSYNTEX"
   },
   {
-    "SYMBOLS": "BAGFILMS"
+    "SYMBOL": "BAFNAPH"
   },
   {
-    "SYMBOLS": "BAJAJ-AUTO"
+    "SYMBOL": "BAGFILMS"
   },
   {
-    "SYMBOLS": "BAJAJCON"
+    "SYMBOL": "BAJAJ-AUTO"
   },
   {
-    "SYMBOLS": "BAJAJELEC"
+    "SYMBOL": "BAJAJCON"
   },
   {
-    "SYMBOLS": "BAJAJFINSV"
+    "SYMBOL": "BAJAJELEC"
   },
   {
-    "SYMBOLS": "BAJAJHIND"
+    "SYMBOL": "BAJAJFINSV"
   },
   {
-    "SYMBOLS": "BAJAJHLDNG"
+    "SYMBOL": "BAJAJHIND"
   },
   {
-    "SYMBOLS": "BAJFINANCE"
+    "SYMBOL": "BAJAJHLDNG"
   },
   {
-    "SYMBOLS": "BALAJITELE"
+    "SYMBOL": "BAJFINANCE"
   },
   {
-    "SYMBOLS": "BALAMINES"
+    "SYMBOL": "BALAJITELE"
   },
   {
-    "SYMBOLS": "BALAXI"
+    "SYMBOL": "BALAMINES"
   },
   {
-    "SYMBOLS": "BALKRISHNA"
+    "SYMBOL": "BALAXI"
   },
   {
-    "SYMBOLS": "BALKRISIND"
+    "SYMBOL": "BALKRISHNA"
   },
   {
-    "SYMBOLS": "BALLARPUR"
+    "SYMBOL": "BALKRISIND"
   },
   {
-    "SYMBOLS": "BALMLAWRIE"
+    "SYMBOL": "BALLARPUR"
   },
   {
-    "SYMBOLS": "BALPHARMA"
+    "SYMBOL": "BALMLAWRIE"
   },
   {
-    "SYMBOLS": "BALRAMCHIN"
+    "SYMBOL": "BALPHARMA"
   },
   {
-    "SYMBOLS": "BANARBEADS"
+    "SYMBOL": "BALRAMCHIN"
   },
   {
-    "SYMBOLS": "BANARISUG"
+    "SYMBOL": "BANARBEADS"
   },
   {
-    "SYMBOLS": "BANCOINDIA"
+    "SYMBOL": "BANARISUG"
   },
   {
-    "SYMBOLS": "BANDHANBNK"
+    "SYMBOL": "BANCOINDIA"
   },
   {
-    "SYMBOLS": "BANG"
+    "SYMBOL": "BANDHANBNK"
   },
   {
-    "SYMBOLS": "BANKBARODA"
+    "SYMBOL": "BANG"
   },
   {
-    "SYMBOLS": "BANKINDIA"
+    "SYMBOL": "BANKA"
   },
   {
-    "SYMBOLS": "BANSWRAS"
+    "SYMBOL": "BANKBARODA"
   },
   {
-    "SYMBOLS": "BARTRONICS"
+    "SYMBOL": "BANKINDIA"
   },
   {
-    "SYMBOLS": "BASF"
+    "SYMBOL": "BANSWRAS"
   },
   {
-    "SYMBOLS": "BASML"
+    "SYMBOL": "BARTRONICS"
   },
   {
-    "SYMBOLS": "BATAINDIA"
+    "SYMBOL": "BASF"
   },
   {
-    "SYMBOLS": "BAYERCROP"
+    "SYMBOL": "BASML"
   },
   {
-    "SYMBOLS": "BBL"
+    "SYMBOL": "BATAINDIA"
   },
   {
-    "SYMBOLS": "BBTC"
+    "SYMBOL": "BAYERCROP"
   },
   {
-    "SYMBOLS": "BCG"
+    "SYMBOL": "BBL"
   },
   {
-    "SYMBOLS": "BCP"
+    "SYMBOL": "BBTC"
   },
   {
-    "SYMBOLS": "BDL"
+    "SYMBOL": "BCG"
   },
   {
-    "SYMBOLS": "BEARDSELL"
+    "SYMBOL": "BCP"
   },
   {
-    "SYMBOLS": "BEDMUTHA"
+    "SYMBOL": "BDL"
   },
   {
-    "SYMBOLS": "BEL"
+    "SYMBOL": "BEARDSELL"
   },
   {
-    "SYMBOLS": "BEML"
+    "SYMBOL": "BEDMUTHA"
   },
   {
-    "SYMBOLS": "BEPL"
+    "SYMBOL": "BEL"
   },
   {
-    "SYMBOLS": "BERGEPAINT"
+    "SYMBOL": "BEML"
   },
   {
-    "SYMBOLS": "BFINVEST"
+    "SYMBOL": "BEPL"
   },
   {
-    "SYMBOLS": "BFUTILITIE"
+    "SYMBOL": "BERGEPAINT"
   },
   {
-    "SYMBOLS": "BGRENERGY"
+    "SYMBOL": "BFINVEST"
   },
   {
-    "SYMBOLS": "BHAGERIA"
+    "SYMBOL": "BFUTILITIE"
   },
   {
-    "SYMBOLS": "BHAGYANGR"
+    "SYMBOL": "BGRENERGY"
   },
   {
-    "SYMBOLS": "BHAGYAPROP"
+    "SYMBOL": "BHAGERIA"
   },
   {
-    "SYMBOLS": "BHANDARI"
+    "SYMBOL": "BHAGYANGR"
   },
   {
-    "SYMBOLS": "BHARATFORG"
+    "SYMBOL": "BHAGYAPROP"
   },
   {
-    "SYMBOLS": "BHARATGEAR"
+    "SYMBOL": "BHANDARI"
   },
   {
-    "SYMBOLS": "BHARATRAS"
+    "SYMBOL": "BHARATFORG"
   },
   {
-    "SYMBOLS": "BHARATWIRE"
+    "SYMBOL": "BHARATGEAR"
   },
   {
-    "SYMBOLS": "BHARTIARTL"
+    "SYMBOL": "BHARATRAS"
   },
   {
-    "SYMBOLS": "BHEL"
+    "SYMBOL": "BHARATWIRE"
   },
   {
-    "SYMBOLS": "BIGBLOC"
+    "SYMBOL": "BHARTIARTL"
   },
   {
-    "SYMBOLS": "BIL"
+    "SYMBOL": "BHEL"
   },
   {
-    "SYMBOLS": "BILENERGY"
+    "SYMBOL": "BIGBLOC"
   },
   {
-    "SYMBOLS": "BINDALAGRO"
+    "SYMBOL": "BIL"
   },
   {
-    "SYMBOLS": "BIOCON"
+    "SYMBOL": "BILENERGY"
   },
   {
-    "SYMBOLS": "BIOFILCHEM"
+    "SYMBOL": "BINDALAGRO"
   },
   {
-    "SYMBOLS": "BIRLACABLE"
+    "SYMBOL": "BIOCON"
   },
   {
-    "SYMBOLS": "BIRLACORPN"
+    "SYMBOL": "BIOFILCHEM"
   },
   {
-    "SYMBOLS": "BIRLAMONEY"
+    "SYMBOL": "BIRLACABLE"
   },
   {
-    "SYMBOLS": "BIRLATYRE"
+    "SYMBOL": "BIRLACORPN"
   },
   {
-    "SYMBOLS": "BKMINDST"
+    "SYMBOL": "BIRLAMONEY"
   },
   {
-    "SYMBOLS": "BLBLIMITED"
+    "SYMBOL": "BIRLATYRE"
   },
   {
-    "SYMBOLS": "BLISSGVS"
+    "SYMBOL": "BKMINDST"
   },
   {
-    "SYMBOLS": "BLKASHYAP"
+    "SYMBOL": "BLBLIMITED"
   },
   {
-    "SYMBOLS": "BLS"
+    "SYMBOL": "BLISSGVS"
   },
   {
-    "SYMBOLS": "BLUEDART"
+    "SYMBOL": "BLKASHYAP"
   },
   {
-    "SYMBOLS": "BLUESTARCO"
+    "SYMBOL": "BLS"
   },
   {
-    "SYMBOLS": "BODALCHEM"
+    "SYMBOL": "BLUEDART"
   },
   {
-    "SYMBOLS": "BOMDYEING"
+    "SYMBOL": "BLUESTARCO"
   },
   {
-    "SYMBOLS": "BOROLTD"
+    "SYMBOL": "BODALCHEM"
   },
   {
-    "SYMBOLS": "BORORENEW"
+    "SYMBOL": "BOMDYEING"
   },
   {
-    "SYMBOLS": "BOSCHLTD"
+    "SYMBOL": "BOROLTD"
   },
   {
-    "SYMBOLS": "BPCL"
+    "SYMBOL": "BORORENEW"
   },
   {
-    "SYMBOLS": "BPL"
+    "SYMBOL": "BOSCHLTD"
   },
   {
-    "SYMBOLS": "BRFL"
+    "SYMBOL": "BPCL"
   },
   {
-    "SYMBOLS": "BRIGADE"
+    "SYMBOL": "BPL"
   },
   {
-    "SYMBOLS": "BRITANNIA"
+    "SYMBOL": "BRFL"
   },
   {
-    "SYMBOLS": "BRNL"
+    "SYMBOL": "BRIGADE"
   },
   {
-    "SYMBOLS": "BROOKS"
+    "SYMBOL": "BRITANNIA"
   },
   {
-    "SYMBOLS": "BSE"
+    "SYMBOL": "BRNL"
   },
   {
-    "SYMBOLS": "BSELINFRA"
+    "SYMBOL": "BROOKS"
   },
   {
-    "SYMBOLS": "BSL"
+    "SYMBOL": "BSE"
   },
   {
-    "SYMBOLS": "BSOFT"
+    "SYMBOL": "BSELINFRA"
   },
   {
-    "SYMBOLS": "BURNPUR"
+    "SYMBOL": "BSHSL"
   },
   {
-    "SYMBOLS": "BUTTERFLY"
+    "SYMBOL": "BSL"
   },
   {
-    "SYMBOLS": "BVCL"
+    "SYMBOL": "BSOFT"
   },
   {
-    "SYMBOLS": "BYKE"
+    "SYMBOL": "BURGERKING"
   },
   {
-    "SYMBOLS": "CADILAHC"
+    "SYMBOL": "BURNPUR"
   },
   {
-    "SYMBOLS": "CALSOFT"
+    "SYMBOL": "BUTTERFLY"
   },
   {
-    "SYMBOLS": "CAMLINFINE"
+    "SYMBOL": "BVCL"
   },
   {
-    "SYMBOLS": "CAMS"
+    "SYMBOL": "BYKE"
   },
   {
-    "SYMBOLS": "CANBK"
+    "SYMBOL": "CADILAHC"
   },
   {
-    "SYMBOLS": "CANDC"
+    "SYMBOL": "CALSOFT"
   },
   {
-    "SYMBOLS": "CANFINHOME"
+    "SYMBOL": "CAMLINFINE"
   },
   {
-    "SYMBOLS": "CANTABIL"
+    "SYMBOL": "CAMS"
   },
   {
-    "SYMBOLS": "CAPACITE"
+    "SYMBOL": "CANBK"
   },
   {
-    "SYMBOLS": "CAPLIPOINT"
+    "SYMBOL": "CANDC"
   },
   {
-    "SYMBOLS": "CAPTRUST"
+    "SYMBOL": "CANFINHOME"
   },
   {
-    "SYMBOLS": "CARBORUNIV"
+    "SYMBOL": "CANTABIL"
   },
   {
-    "SYMBOLS": "CAREERP"
+    "SYMBOL": "CAPACITE"
   },
   {
-    "SYMBOLS": "CARERATING"
+    "SYMBOL": "CAPLIPOINT"
   },
   {
-    "SYMBOLS": "CASTEXTECH"
+    "SYMBOL": "CAPTRUST"
   },
   {
-    "SYMBOLS": "CASTROLIND"
+    "SYMBOL": "CARBORUNIV"
   },
   {
-    "SYMBOLS": "CCHHL"
+    "SYMBOL": "CAREERP"
   },
   {
-    "SYMBOLS": "CCL"
+    "SYMBOL": "CARERATING"
   },
   {
-    "SYMBOLS": "CDSL"
+    "SYMBOL": "CASTEXTECH"
   },
   {
-    "SYMBOLS": "CEATLTD"
+    "SYMBOL": "CASTROLIND"
   },
   {
-    "SYMBOLS": "CEBBCO"
+    "SYMBOL": "CCCL"
   },
   {
-    "SYMBOLS": "CELEBRITY"
+    "SYMBOL": "CCHHL"
   },
   {
-    "SYMBOLS": "CENTENKA"
+    "SYMBOL": "CCL"
   },
   {
-    "SYMBOLS": "CENTEXT"
+    "SYMBOL": "CDSL"
   },
   {
-    "SYMBOLS": "CENTRALBK"
+    "SYMBOL": "CEATLTD"
   },
   {
-    "SYMBOLS": "CENTRUM"
+    "SYMBOL": "CEBBCO"
   },
   {
-    "SYMBOLS": "CENTUM"
+    "SYMBOL": "CELEBRITY"
   },
   {
-    "SYMBOLS": "CENTURYPLY"
+    "SYMBOL": "CENTENKA"
   },
   {
-    "SYMBOLS": "CENTURYTEX"
+    "SYMBOL": "CENTEXT"
   },
   {
-    "SYMBOLS": "CERA"
+    "SYMBOL": "CENTRALBK"
   },
   {
-    "SYMBOLS": "CEREBRAINT"
+    "SYMBOL": "CENTRUM"
   },
   {
-    "SYMBOLS": "CESC"
+    "SYMBOL": "CENTUM"
   },
   {
-    "SYMBOLS": "CESCVENT"
+    "SYMBOL": "CENTURYPLY"
   },
   {
-    "SYMBOLS": "CGCL"
+    "SYMBOL": "CENTURYTEX"
   },
   {
-    "SYMBOLS": "CGPOWER"
+    "SYMBOL": "CERA"
   },
   {
-    "SYMBOLS": "CHALET"
+    "SYMBOL": "CEREBRAINT"
   },
   {
-    "SYMBOLS": "CHAMBLFERT"
+    "SYMBOL": "CESC"
   },
   {
-    "SYMBOLS": "CHEMBOND"
+    "SYMBOL": "CESCVENT"
   },
   {
-    "SYMBOLS": "CHEMCON"
+    "SYMBOL": "CGCL"
   },
   {
-    "SYMBOLS": "CHEMFAB"
+    "SYMBOL": "CGPOWER"
   },
   {
-    "SYMBOLS": "CHENNPETRO"
+    "SYMBOL": "CHALET"
   },
   {
-    "SYMBOLS": "CHOLAFIN"
+    "SYMBOL": "CHAMBLFERT"
   },
   {
-    "SYMBOLS": "CHOLAHLDNG"
+    "SYMBOL": "CHEMBOND"
   },
   {
-    "SYMBOLS": "CHROMATIC"
+    "SYMBOL": "CHEMCON"
   },
   {
-    "SYMBOLS": "CIGNITITEC"
+    "SYMBOL": "CHEMFAB"
   },
   {
-    "SYMBOLS": "CIMMCO"
+    "SYMBOL": "CHENNPETRO"
   },
   {
-    "SYMBOLS": "CINELINE"
+    "SYMBOL": "CHOLAFIN"
   },
   {
-    "SYMBOLS": "CINEVISTA"
+    "SYMBOL": "CHOLAHLDNG"
   },
   {
-    "SYMBOLS": "CIPLA"
+    "SYMBOL": "CHROMATIC"
   },
   {
-    "SYMBOLS": "CLEDUCATE"
+    "SYMBOL": "CIGNITITEC"
   },
   {
-    "SYMBOLS": "CLNINDIA"
+    "SYMBOL": "CINELINE"
   },
   {
-    "SYMBOLS": "CMICABLES"
+    "SYMBOL": "CINEVISTA"
   },
   {
-    "SYMBOLS": "CNOVAPETRO"
+    "SYMBOL": "CIPLA"
   },
   {
-    "SYMBOLS": "COALINDIA"
+    "SYMBOL": "CLEDUCATE"
   },
   {
-    "SYMBOLS": "COCHINSHIP"
+    "SYMBOL": "CLNINDIA"
   },
   {
-    "SYMBOLS": "COFORGE"
+    "SYMBOL": "CMICABLES"
   },
   {
-    "SYMBOLS": "COLPAL"
+    "SYMBOL": "CNOVAPETRO"
   },
   {
-    "SYMBOLS": "COMPINFO"
+    "SYMBOL": "COALINDIA"
   },
   {
-    "SYMBOLS": "COMPUSOFT"
+    "SYMBOL": "COCHINSHIP"
   },
   {
-    "SYMBOLS": "CONCOR"
+    "SYMBOL": "COFORGE"
   },
   {
-    "SYMBOLS": "CONFIPET"
+    "SYMBOL": "COLPAL"
   },
   {
-    "SYMBOLS": "CONSOFINVT"
+    "SYMBOL": "COMPINFO"
   },
   {
-    "SYMBOLS": "CONTROLPR"
+    "SYMBOL": "COMPUSOFT"
   },
   {
-    "SYMBOLS": "CORALFINAC"
+    "SYMBOL": "CONCOR"
   },
   {
-    "SYMBOLS": "CORDSCABLE"
+    "SYMBOL": "CONFIPET"
   },
   {
-    "SYMBOLS": "COROMANDEL"
+    "SYMBOL": "CONSOFINVT"
   },
   {
-    "SYMBOLS": "COSMOFILMS"
+    "SYMBOL": "CONTROLPR"
   },
   {
-    "SYMBOLS": "COUNCODOS"
+    "SYMBOL": "CORALFINAC"
   },
   {
-    "SYMBOLS": "COX&KINGS"
+    "SYMBOL": "CORDSCABLE"
   },
   {
-    "SYMBOLS": "CREATIVE"
+    "SYMBOL": "COROMANDEL"
   },
   {
-    "SYMBOLS": "CREATIVEYE"
+    "SYMBOL": "COSMOFILMS"
   },
   {
-    "SYMBOLS": "CREDITACC"
+    "SYMBOL": "COUNCODOS"
   },
   {
-    "SYMBOLS": "CREST"
+    "SYMBOL": "COX&KINGS"
   },
   {
-    "SYMBOLS": "CRISIL"
+    "SYMBOL": "CREATIVE"
   },
   {
-    "SYMBOLS": "CROMPTON"
+    "SYMBOL": "CREATIVEYE"
   },
   {
-    "SYMBOLS": "CSBBANK"
+    "SYMBOL": "CREDITACC"
   },
   {
-    "SYMBOLS": "CTE"
+    "SYMBOL": "CREST"
   },
   {
-    "SYMBOLS": "CUB"
+    "SYMBOL": "CRISIL"
   },
   {
-    "SYMBOLS": "CUBEXTUB"
+    "SYMBOL": "CROMPTON"
   },
   {
-    "SYMBOLS": "CUMMINSIND"
+    "SYMBOL": "CSBBANK"
   },
   {
-    "SYMBOLS": "CUPID"
+    "SYMBOL": "CTE"
   },
   {
-    "SYMBOLS": "CYBERTECH"
+    "SYMBOL": "CUB"
   },
   {
-    "SYMBOLS": "CYIENT"
+    "SYMBOL": "CUBEXTUB"
   },
   {
-    "SYMBOLS": "DAAWAT"
+    "SYMBOL": "CUMMINSIND"
   },
   {
-    "SYMBOLS": "DABUR"
+    "SYMBOL": "CUPID"
   },
   {
-    "SYMBOLS": "DALBHARAT"
+    "SYMBOL": "CYBERTECH"
   },
   {
-    "SYMBOLS": "DALMIASUG"
+    "SYMBOL": "CYIENT"
   },
   {
-    "SYMBOLS": "DAMODARIND"
+    "SYMBOL": "DAAWAT"
   },
   {
-    "SYMBOLS": "DATAMATICS"
+    "SYMBOL": "DABUR"
   },
   {
-    "SYMBOLS": "DBCORP"
+    "SYMBOL": "DALBHARAT"
   },
   {
-    "SYMBOLS": "DBL"
+    "SYMBOL": "DALMIASUG"
   },
   {
-    "SYMBOLS": "DBREALTY"
+    "SYMBOL": "DAMODARIND"
   },
   {
-    "SYMBOLS": "DBSTOCKBRO"
+    "SYMBOL": "DANGEE"
   },
   {
-    "SYMBOLS": "DCAL"
+    "SYMBOL": "DATAMATICS"
   },
   {
-    "SYMBOLS": "DCBBANK"
+    "SYMBOL": "DBCORP"
   },
   {
-    "SYMBOLS": "DCM"
+    "SYMBOL": "DBL"
   },
   {
-    "SYMBOLS": "DCMFINSERV"
+    "SYMBOL": "DBREALTY"
   },
   {
-    "SYMBOLS": "DCMNVL"
+    "SYMBOL": "DBSTOCKBRO"
   },
   {
-    "SYMBOLS": "DCMSHRIRAM"
+    "SYMBOL": "DCAL"
   },
   {
-    "SYMBOLS": "DCW"
+    "SYMBOL": "DCBBANK"
   },
   {
-    "SYMBOLS": "DECCANCE"
+    "SYMBOL": "DCM"
   },
   {
-    "SYMBOLS": "DEEPAK-RE"
+    "SYMBOL": "DCMFINSERV"
   },
   {
-    "SYMBOLS": "DEEPAKFERT"
+    "SYMBOL": "DCMNVL"
   },
   {
-    "SYMBOLS": "DEEPAKNTR"
+    "SYMBOL": "DCMSHRIRAM"
   },
   {
-    "SYMBOLS": "DEEPENR"
+    "SYMBOL": "DCW"
   },
   {
-    "SYMBOLS": "DELTACORP"
+    "SYMBOL": "DECCANCE"
   },
   {
-    "SYMBOLS": "DELTAMAGNT"
+    "SYMBOL": "DEEPAKFERT"
   },
   {
-    "SYMBOLS": "DEN"
+    "SYMBOL": "DEEPAKNTR"
   },
   {
-    "SYMBOLS": "DENORA"
+    "SYMBOL": "DEEPENR"
   },
   {
-    "SYMBOLS": "DFMFOODS"
+    "SYMBOL": "DELTACORP"
   },
   {
-    "SYMBOLS": "DGCONTENT"
+    "SYMBOL": "DELTAMAGNT"
   },
   {
-    "SYMBOLS": "DHAMPURSUG"
+    "SYMBOL": "DEN"
   },
   {
-    "SYMBOLS": "DHANBANK"
+    "SYMBOL": "DENORA"
   },
   {
-    "SYMBOLS": "DHANUKA"
+    "SYMBOL": "DFMFOODS"
   },
   {
-    "SYMBOLS": "DHARSUGAR"
+    "SYMBOL": "DGCONTENT"
   },
   {
-    "SYMBOLS": "DHFL"
+    "SYMBOL": "DHAMPURSUG"
   },
   {
-    "SYMBOLS": "DHUNINV"
+    "SYMBOL": "DHANBANK"
   },
   {
-    "SYMBOLS": "DIAMONDYD"
+    "SYMBOL": "DHANI"
   },
   {
-    "SYMBOLS": "DIAPOWER"
+    "SYMBOL": "DHANUKA"
   },
   {
-    "SYMBOLS": "DICIND"
+    "SYMBOL": "DHARSUGAR"
   },
   {
-    "SYMBOLS": "DIGISPICE"
+    "SYMBOL": "DHFL"
   },
   {
-    "SYMBOLS": "DIGJAMLTD"
+    "SYMBOL": "DHUNINV"
   },
   {
-    "SYMBOLS": "DISHTV"
+    "SYMBOL": "DIAMONDYD"
   },
   {
-    "SYMBOLS": "DIVISLAB"
+    "SYMBOL": "DIAPOWER"
   },
   {
-    "SYMBOLS": "DIXON"
+    "SYMBOL": "DICIND"
   },
   {
-    "SYMBOLS": "DLF"
+    "SYMBOL": "DIGISPICE"
   },
   {
-    "SYMBOLS": "DLINKINDIA"
+    "SYMBOL": "DIGJAMLTD"
   },
   {
-    "SYMBOLS": "DMART"
+    "SYMBOL": "DISHTV"
   },
   {
-    "SYMBOLS": "DNAMEDIA"
+    "SYMBOL": "DIVISLAB"
   },
   {
-    "SYMBOLS": "DOLAT"
+    "SYMBOL": "DIXON"
   },
   {
-    "SYMBOLS": "DOLLAR"
+    "SYMBOL": "DLF"
   },
   {
-    "SYMBOLS": "DONEAR"
+    "SYMBOL": "DLINKINDIA"
   },
   {
-    "SYMBOLS": "DPSCLTD"
+    "SYMBOL": "DMART"
   },
   {
-    "SYMBOLS": "DPWIRES"
+    "SYMBOL": "DNAMEDIA"
   },
   {
-    "SYMBOLS": "DQE"
+    "SYMBOL": "DOLAT"
   },
   {
-    "SYMBOLS": "DREDGECORP"
+    "SYMBOL": "DOLLAR"
   },
   {
-    "SYMBOLS": "DRREDDY"
+    "SYMBOL": "DONEAR"
   },
   {
-    "SYMBOLS": "DSSL"
+    "SYMBOL": "DPABHUSHAN"
   },
   {
-    "SYMBOLS": "DTIL"
+    "SYMBOL": "DPSCLTD"
   },
   {
-    "SYMBOLS": "DUCON"
+    "SYMBOL": "DPWIRES"
   },
   {
-    "SYMBOLS": "DVL"
+    "SYMBOL": "DQE"
   },
   {
-    "SYMBOLS": "DWARKESH"
+    "SYMBOL": "DREDGECORP"
   },
   {
-    "SYMBOLS": "DYNAMATECH"
+    "SYMBOL": "DRREDDY"
   },
   {
-    "SYMBOLS": "DYNPRO"
+    "SYMBOL": "DSSL"
   },
   {
-    "SYMBOLS": "EASTSILK"
+    "SYMBOL": "DTIL"
   },
   {
-    "SYMBOLS": "EASUNREYRL"
+    "SYMBOL": "DUCON"
   },
   {
-    "SYMBOLS": "EBIXFOREX"
+    "SYMBOL": "DVL"
   },
   {
-    "SYMBOLS": "ECLERX"
+    "SYMBOL": "DWARKESH"
   },
   {
-    "SYMBOLS": "EDELWEISS"
+    "SYMBOL": "DYNAMATECH"
   },
   {
-    "SYMBOLS": "EDUCOMP"
+    "SYMBOL": "DYNPRO"
   },
   {
-    "SYMBOLS": "EICHERMOT"
+    "SYMBOL": "EASTSILK"
   },
   {
-    "SYMBOLS": "EIDPARRY"
+    "SYMBOL": "EASUNREYRL"
   },
   {
-    "SYMBOLS": "EIH-RE"
+    "SYMBOL": "EBIXFOREX"
   },
   {
-    "SYMBOLS": "EIHAHOTELS"
+    "SYMBOL": "ECLERX"
   },
   {
-    "SYMBOLS": "EIHOTEL"
+    "SYMBOL": "EDELWEISS"
   },
   {
-    "SYMBOLS": "EIMCOELECO"
+    "SYMBOL": "EDUCOMP"
   },
   {
-    "SYMBOLS": "EKC"
+    "SYMBOL": "EICHERMOT"
   },
   {
-    "SYMBOLS": "ELECON"
+    "SYMBOL": "EIDPARRY"
   },
   {
-    "SYMBOLS": "ELECTCAST"
+    "SYMBOL": "EIHAHOTELS"
   },
   {
-    "SYMBOLS": "ELECTHERM"
+    "SYMBOL": "EIHOTEL"
   },
   {
-    "SYMBOLS": "ELGIEQUIP"
+    "SYMBOL": "EIMCOELECO"
   },
   {
-    "SYMBOLS": "ELGIRUBCO"
+    "SYMBOL": "EKC"
   },
   {
-    "SYMBOLS": "EMAMILTD"
+    "SYMBOL": "ELECON"
   },
   {
-    "SYMBOLS": "EMAMIPAP"
+    "SYMBOL": "ELECTCAST"
   },
   {
-    "SYMBOLS": "EMAMIREAL"
+    "SYMBOL": "ELECTHERM"
   },
   {
-    "SYMBOLS": "EMCO"
+    "SYMBOL": "ELGIEQUIP"
   },
   {
-    "SYMBOLS": "EMKAY"
+    "SYMBOL": "ELGIRUBCO"
   },
   {
-    "SYMBOLS": "EMMBI"
+    "SYMBOL": "EMAMILTD"
   },
   {
-    "SYMBOLS": "ENDURANCE"
+    "SYMBOL": "EMAMIPAP"
   },
   {
-    "SYMBOLS": "ENERGYDEV"
+    "SYMBOL": "EMAMIREAL"
   },
   {
-    "SYMBOLS": "ENGINERSIN"
+    "SYMBOL": "EMCO"
   },
   {
-    "SYMBOLS": "ENIL"
+    "SYMBOL": "EMKAY"
   },
   {
-    "SYMBOLS": "EQUITAS"
+    "SYMBOL": "EMMBI"
   },
   {
-    "SYMBOLS": "ERIS"
+    "SYMBOL": "ENDURANCE"
   },
   {
-    "SYMBOLS": "EROSMEDIA"
+    "SYMBOL": "ENERGYDEV"
   },
   {
-    "SYMBOLS": "ESABINDIA"
+    "SYMBOL": "ENGINERSIN"
   },
   {
-    "SYMBOLS": "ESCORTS"
+    "SYMBOL": "ENIL"
   },
   {
-    "SYMBOLS": "ESSARSHPNG"
+    "SYMBOL": "EPL"
   },
   {
-    "SYMBOLS": "ESSELPACK"
+    "SYMBOL": "EQUITAS"
   },
   {
-    "SYMBOLS": "ESTER"
+    "SYMBOL": "EQUITASBNK"
   },
   {
-    "SYMBOLS": "EUROMULTI"
+    "SYMBOL": "ERIS"
   },
   {
-    "SYMBOLS": "EUROTEXIND"
+    "SYMBOL": "EROSMEDIA"
   },
   {
-    "SYMBOLS": "EVEREADY"
+    "SYMBOL": "ESABINDIA"
   },
   {
-    "SYMBOLS": "EVERESTIND"
+    "SYMBOL": "ESCORTS"
   },
   {
-    "SYMBOLS": "EXCEL"
+    "SYMBOL": "ESSARSHPNG"
   },
   {
-    "SYMBOLS": "EXCELINDUS"
+    "SYMBOL": "ESTER"
   },
   {
-    "SYMBOLS": "EXIDEIND"
+    "SYMBOL": "EUROMULTI"
   },
   {
-    "SYMBOLS": "EXPLEOSOL"
+    "SYMBOL": "EUROTEXIND"
   },
   {
-    "SYMBOLS": "FACT"
+    "SYMBOL": "EVEREADY"
   },
   {
-    "SYMBOLS": "FAIRCHEM"
+    "SYMBOL": "EVERESTIND"
   },
   {
-    "SYMBOLS": "FCL"
+    "SYMBOL": "EXCEL"
   },
   {
-    "SYMBOLS": "FCONSUMER"
+    "SYMBOL": "EXCELINDUS"
   },
   {
-    "SYMBOLS": "FCSSOFT"
+    "SYMBOL": "EXIDEIND"
   },
   {
-    "SYMBOLS": "FDC"
+    "SYMBOL": "EXPLEOSOL"
   },
   {
-    "SYMBOLS": "FEDERALBNK"
+    "SYMBOL": "FACT"
   },
   {
-    "SYMBOLS": "FEL"
+    "SYMBOL": "FCL"
   },
   {
-    "SYMBOLS": "FELDVR"
+    "SYMBOL": "FCONSUMER"
   },
   {
-    "SYMBOLS": "FIEMIND"
+    "SYMBOL": "FCSSOFT"
   },
   {
-    "SYMBOLS": "FILATEX"
+    "SYMBOL": "FDC"
   },
   {
-    "SYMBOLS": "FINCABLES"
+    "SYMBOL": "FEDERALBNK"
   },
   {
-    "SYMBOLS": "FINEORG"
+    "SYMBOL": "FEL"
   },
   {
-    "SYMBOLS": "FINPIPE"
+    "SYMBOL": "FELDVR"
   },
   {
-    "SYMBOLS": "FLEXITUFF"
+    "SYMBOL": "FIEMIND"
   },
   {
-    "SYMBOLS": "FLFL"
+    "SYMBOL": "FILATEX"
   },
   {
-    "SYMBOLS": "FLUOROCHEM"
+    "SYMBOL": "FINCABLES"
   },
   {
-    "SYMBOLS": "FMGOETZE"
+    "SYMBOL": "FINEORG"
   },
   {
-    "SYMBOLS": "FMNL"
+    "SYMBOL": "FINPIPE"
   },
   {
-    "SYMBOLS": "FORCEMOT"
+    "SYMBOL": "FLEXITUFF"
   },
   {
-    "SYMBOLS": "FORTIS"
+    "SYMBOL": "FLFL"
   },
   {
-    "SYMBOLS": "FOSECOIND"
+    "SYMBOL": "FLUOROCHEM"
   },
   {
-    "SYMBOLS": "FRETAIL"
+    "SYMBOL": "FMGOETZE"
   },
   {
-    "SYMBOLS": "FSC"
+    "SYMBOL": "FMNL"
   },
   {
-    "SYMBOLS": "FSL"
+    "SYMBOL": "FORCEMOT"
   },
   {
-    "SYMBOLS": "GABRIEL"
+    "SYMBOL": "FORTIS"
   },
   {
-    "SYMBOLS": "GAEL"
+    "SYMBOL": "FOSECOIND"
   },
   {
-    "SYMBOLS": "GAIL"
+    "SYMBOL": "FRETAIL"
   },
   {
-    "SYMBOLS": "GAL"
+    "SYMBOL": "FSC"
   },
   {
-    "SYMBOLS": "GALAXYSURF"
+    "SYMBOL": "FSL"
   },
   {
-    "SYMBOLS": "GALLANTT"
+    "SYMBOL": "GABRIEL"
   },
   {
-    "SYMBOLS": "GALLISPAT"
+    "SYMBOL": "GAEL"
   },
   {
-    "SYMBOLS": "GAMMNINFRA"
+    "SYMBOL": "GAIL"
   },
   {
-    "SYMBOLS": "GANDHITUBE"
+    "SYMBOL": "GAL"
   },
   {
-    "SYMBOLS": "GANECOS"
+    "SYMBOL": "GALAXYSURF"
   },
   {
-    "SYMBOLS": "GANESHHOUC"
+    "SYMBOL": "GALLANTT"
   },
   {
-    "SYMBOLS": "GANGESSECU"
+    "SYMBOL": "GALLISPAT"
   },
   {
-    "SYMBOLS": "GARDENSILK"
+    "SYMBOL": "GAMMNINFRA"
   },
   {
-    "SYMBOLS": "GARFIBRES"
+    "SYMBOL": "GANDHITUBE"
   },
   {
-    "SYMBOLS": "GATI"
+    "SYMBOL": "GANECOS"
   },
   {
-    "SYMBOLS": "GAYAHWS"
+    "SYMBOL": "GANESHHOUC"
   },
   {
-    "SYMBOLS": "GAYAPROJ"
+    "SYMBOL": "GANGESSECU"
   },
   {
-    "SYMBOLS": "GDL"
+    "SYMBOL": "GARDENSILK"
   },
   {
-    "SYMBOLS": "GEECEE"
+    "SYMBOL": "GARFIBRES"
   },
   {
-    "SYMBOLS": "GEEKAYWIRE"
+    "SYMBOL": "GATI"
   },
   {
-    "SYMBOLS": "GENESYS"
+    "SYMBOL": "GAYAHWS"
   },
   {
-    "SYMBOLS": "GENUSPAPER"
+    "SYMBOL": "GAYAPROJ"
   },
   {
-    "SYMBOLS": "GENUSPOWER"
+    "SYMBOL": "GBGLOBAL"
   },
   {
-    "SYMBOLS": "GEOJITFSL"
+    "SYMBOL": "GDL"
   },
   {
-    "SYMBOLS": "GEPIL"
+    "SYMBOL": "GEECEE"
   },
   {
-    "SYMBOLS": "GESHIP"
+    "SYMBOL": "GEEKAYWIRE"
   },
   {
-    "SYMBOLS": "GET&D"
+    "SYMBOL": "GENESYS"
   },
   {
-    "SYMBOLS": "GFLLIMITED"
+    "SYMBOL": "GENUSPAPER"
   },
   {
-    "SYMBOLS": "GFSTEELS"
+    "SYMBOL": "GENUSPOWER"
   },
   {
-    "SYMBOLS": "GHCL"
+    "SYMBOL": "GEOJITFSL"
   },
   {
-    "SYMBOLS": "GICHSGFIN"
+    "SYMBOL": "GEPIL"
   },
   {
-    "SYMBOLS": "GICRE"
+    "SYMBOL": "GESHIP"
   },
   {
-    "SYMBOLS": "GILLANDERS"
+    "SYMBOL": "GET&D"
   },
   {
-    "SYMBOLS": "GILLETTE"
+    "SYMBOL": "GFLLIMITED"
   },
   {
-    "SYMBOLS": "GINNIFILA"
+    "SYMBOL": "GFSTEELS"
   },
   {
-    "SYMBOLS": "GIPCL"
+    "SYMBOL": "GHCL"
   },
   {
-    "SYMBOLS": "GISOLUTION"
+    "SYMBOL": "GICHSGFIN"
   },
   {
-    "SYMBOLS": "GKWLIMITED"
+    "SYMBOL": "GICRE"
   },
   {
-    "SYMBOLS": "GLAXO"
+    "SYMBOL": "GILLANDERS"
   },
   {
-    "SYMBOLS": "GLENMARK"
+    "SYMBOL": "GILLETTE"
   },
   {
-    "SYMBOLS": "GLFL"
+    "SYMBOL": "GINNIFILA"
   },
   {
-    "SYMBOLS": "GLOBALVECT"
+    "SYMBOL": "GIPCL"
   },
   {
-    "SYMBOLS": "GLOBE"
+    "SYMBOL": "GISOLUTION"
   },
   {
-    "SYMBOLS": "GLOBOFFS"
+    "SYMBOL": "GKWLIMITED"
   },
   {
-    "SYMBOLS": "GLOBUSSPR"
+    "SYMBOL": "GLAND"
   },
   {
-    "SYMBOLS": "GMBREW"
+    "SYMBOL": "GLAXO"
   },
   {
-    "SYMBOLS": "GMDCLTD"
+    "SYMBOL": "GLENMARK"
   },
   {
-    "SYMBOLS": "GMMPFAUDLR"
+    "SYMBOL": "GLFL"
   },
   {
-    "SYMBOLS": "GMRINFRA"
+    "SYMBOL": "GLOBAL"
   },
   {
-    "SYMBOLS": "GNA"
+    "SYMBOL": "GLOBALVECT"
   },
   {
-    "SYMBOLS": "GNFC"
+    "SYMBOL": "GLOBE"
   },
   {
-    "SYMBOLS": "GOACARBON"
+    "SYMBOL": "GLOBOFFS"
   },
   {
-    "SYMBOLS": "GOCLCORP"
+    "SYMBOL": "GLOBUSSPR"
   },
   {
-    "SYMBOLS": "GODFRYPHLP"
+    "SYMBOL": "GMBREW"
   },
   {
-    "SYMBOLS": "GODREJAGRO"
+    "SYMBOL": "GMDCLTD"
   },
   {
-    "SYMBOLS": "GODREJCP"
+    "SYMBOL": "GMMPFAUDLR"
   },
   {
-    "SYMBOLS": "GODREJIND"
+    "SYMBOL": "GMRINFRA"
   },
   {
-    "SYMBOLS": "GODREJPROP"
+    "SYMBOL": "GNA"
   },
   {
-    "SYMBOLS": "GOENKA"
+    "SYMBOL": "GNFC"
   },
   {
-    "SYMBOLS": "GOKEX"
+    "SYMBOL": "GOACARBON"
   },
   {
-    "SYMBOLS": "GOKUL"
+    "SYMBOL": "GOCLCORP"
   },
   {
-    "SYMBOLS": "GOKULAGRO"
+    "SYMBOL": "GODFRYPHLP"
   },
   {
-    "SYMBOLS": "GOLDENTOBC"
+    "SYMBOL": "GODREJAGRO"
   },
   {
-    "SYMBOLS": "GOLDIAM"
+    "SYMBOL": "GODREJCP"
   },
   {
-    "SYMBOLS": "GOLDTECH"
+    "SYMBOL": "GODREJIND"
   },
   {
-    "SYMBOLS": "GOODLUCK"
+    "SYMBOL": "GODREJPROP"
   },
   {
-    "SYMBOLS": "GOODYEAR"
+    "SYMBOL": "GOENKA"
   },
   {
-    "SYMBOLS": "GPIL"
+    "SYMBOL": "GOKEX"
   },
   {
-    "SYMBOLS": "GPPL"
+    "SYMBOL": "GOKUL"
   },
   {
-    "SYMBOLS": "GPTINFRA"
+    "SYMBOL": "GOKULAGRO"
   },
   {
-    "SYMBOLS": "GRANULES"
+    "SYMBOL": "GOLDENTOBC"
   },
   {
-    "SYMBOLS": "GRAPHITE"
+    "SYMBOL": "GOLDIAM"
   },
   {
-    "SYMBOLS": "GRASIM"
+    "SYMBOL": "GOLDTECH"
   },
   {
-    "SYMBOLS": "GRAVITA"
+    "SYMBOL": "GOODLUCK"
   },
   {
-    "SYMBOLS": "GREAVESCOT"
+    "SYMBOL": "GOODYEAR"
   },
   {
-    "SYMBOLS": "GREENLAM"
+    "SYMBOL": "GPIL"
   },
   {
-    "SYMBOLS": "GREENPANEL"
+    "SYMBOL": "GPPL"
   },
   {
-    "SYMBOLS": "GREENPLY"
+    "SYMBOL": "GPTINFRA"
   },
   {
-    "SYMBOLS": "GREENPOWER"
+    "SYMBOL": "GRANULES"
   },
   {
-    "SYMBOLS": "GRINDWELL"
+    "SYMBOL": "GRAPHITE"
   },
   {
-    "SYMBOLS": "GROBTEA"
+    "SYMBOL": "GRASIM"
   },
   {
-    "SYMBOLS": "GRPLTD"
+    "SYMBOL": "GRAVITA"
   },
   {
-    "SYMBOLS": "GRSE"
+    "SYMBOL": "GREAVESCOT"
   },
   {
-    "SYMBOLS": "GSCLCEMENT"
+    "SYMBOL": "GREENLAM"
   },
   {
-    "SYMBOLS": "GSFC"
+    "SYMBOL": "GREENPANEL"
   },
   {
-    "SYMBOLS": "GSPL"
+    "SYMBOL": "GREENPLY"
   },
   {
-    "SYMBOLS": "GSS"
+    "SYMBOL": "GREENPOWER"
   },
   {
-    "SYMBOLS": "GTL"
+    "SYMBOL": "GRINDWELL"
   },
   {
-    "SYMBOLS": "GTLINFRA"
+    "SYMBOL": "GROBTEA"
   },
   {
-    "SYMBOLS": "GTNIND"
+    "SYMBOL": "GRPLTD"
   },
   {
-    "SYMBOLS": "GTNTEX"
+    "SYMBOL": "GRSE"
   },
   {
-    "SYMBOLS": "GTPL"
+    "SYMBOL": "GSCLCEMENT"
   },
   {
-    "SYMBOLS": "GUFICBIO"
+    "SYMBOL": "GSFC"
   },
   {
-    "SYMBOLS": "GUJALKALI"
+    "SYMBOL": "GSPL"
   },
   {
-    "SYMBOLS": "GUJAPOLLO"
+    "SYMBOL": "GSS"
   },
   {
-    "SYMBOLS": "GUJGASLTD"
+    "SYMBOL": "GTL"
   },
   {
-    "SYMBOLS": "GUJRAFFIA"
+    "SYMBOL": "GTLINFRA"
   },
   {
-    "SYMBOLS": "GULFOILLUB"
+    "SYMBOL": "GTNIND"
   },
   {
-    "SYMBOLS": "GULFPETRO"
+    "SYMBOL": "GTNTEX"
   },
   {
-    "SYMBOLS": "GULPOLY"
+    "SYMBOL": "GTPL"
   },
   {
-    "SYMBOLS": "GVKPIL"
+    "SYMBOL": "GUFICBIO"
   },
   {
-    "SYMBOLS": "HAL"
+    "SYMBOL": "GUJALKALI"
   },
   {
-    "SYMBOLS": "HAPPSTMNDS"
+    "SYMBOL": "GUJAPOLLO"
   },
   {
-    "SYMBOLS": "HARITASEAT"
+    "SYMBOL": "GUJGASLTD"
   },
   {
-    "SYMBOLS": "HARRMALAYA"
+    "SYMBOL": "GUJRAFFIA"
   },
   {
-    "SYMBOLS": "HATHWAY"
+    "SYMBOL": "GULFOILLUB"
   },
   {
-    "SYMBOLS": "HATSUN"
+    "SYMBOL": "GULFPETRO"
   },
   {
-    "SYMBOLS": "HAVELLS"
+    "SYMBOL": "GULPOLY"
   },
   {
-    "SYMBOLS": "HAVISHA"
+    "SYMBOL": "GVKPIL"
   },
   {
-    "SYMBOLS": "HBLPOWER"
+    "SYMBOL": "HAL"
   },
   {
-    "SYMBOLS": "HBSL"
+    "SYMBOL": "HAPPSTMNDS"
   },
   {
-    "SYMBOLS": "HCC"
+    "SYMBOL": "HARITASEAT"
   },
   {
-    "SYMBOLS": "HCG"
+    "SYMBOL": "HARRMALAYA"
   },
   {
-    "SYMBOLS": "HCL-INSYS"
+    "SYMBOL": "HATHWAY"
   },
   {
-    "SYMBOLS": "HCLTECH"
+    "SYMBOL": "HATSUN"
   },
   {
-    "SYMBOLS": "HDFC"
+    "SYMBOL": "HAVELLS"
   },
   {
-    "SYMBOLS": "HDFCAMC"
+    "SYMBOL": "HAVISHA"
   },
   {
-    "SYMBOLS": "HDFCBANK"
+    "SYMBOL": "HBLPOWER"
   },
   {
-    "SYMBOLS": "HDFCLIFE"
+    "SYMBOL": "HBSL"
   },
   {
-    "SYMBOLS": "HDIL"
+    "SYMBOL": "HCC"
   },
   {
-    "SYMBOLS": "HEG"
+    "SYMBOL": "HCG"
   },
   {
-    "SYMBOLS": "HEIDELBERG"
+    "SYMBOL": "HCL-INSYS"
   },
   {
-    "SYMBOLS": "HERCULES"
+    "SYMBOL": "HCLTECH"
   },
   {
-    "SYMBOLS": "HERITGFOOD"
+    "SYMBOL": "HDFC"
   },
   {
-    "SYMBOLS": "HEROMOTOCO"
+    "SYMBOL": "HDFCAMC"
   },
   {
-    "SYMBOLS": "HESTERBIO"
+    "SYMBOL": "HDFCBANK"
   },
   {
-    "SYMBOLS": "HEXATRADEX"
+    "SYMBOL": "HDFCLIFE"
   },
   {
-    "SYMBOLS": "HEXAWARE"
+    "SYMBOL": "HDIL"
   },
   {
-    "SYMBOLS": "HFCL"
+    "SYMBOL": "HEG"
   },
   {
-    "SYMBOLS": "HGINFRA"
+    "SYMBOL": "HEIDELBERG"
   },
   {
-    "SYMBOLS": "HGS"
+    "SYMBOL": "HEMIPROP"
   },
   {
-    "SYMBOLS": "HIKAL"
+    "SYMBOL": "HERCULES"
   },
   {
-    "SYMBOLS": "HIL"
+    "SYMBOL": "HERITGFOOD"
   },
   {
-    "SYMBOLS": "HILTON"
+    "SYMBOL": "HEROMOTOCO"
   },
   {
-    "SYMBOLS": "HIMATSEIDE"
+    "SYMBOL": "HESTERBIO"
   },
   {
-    "SYMBOLS": "HINDALCO"
+    "SYMBOL": "HEXATRADEX"
   },
   {
-    "SYMBOLS": "HINDCOMPOS"
+    "SYMBOL": "HFCL"
   },
   {
-    "SYMBOLS": "HINDCOPPER"
+    "SYMBOL": "HGINFRA"
   },
   {
-    "SYMBOLS": "HINDMOTORS"
+    "SYMBOL": "HGS"
   },
   {
-    "SYMBOLS": "HINDNATGLS"
+    "SYMBOL": "HIKAL"
   },
   {
-    "SYMBOLS": "HINDOILEXP"
+    "SYMBOL": "HIL"
   },
   {
-    "SYMBOLS": "HINDPETRO"
+    "SYMBOL": "HILTON"
   },
   {
-    "SYMBOLS": "HINDUNILVR"
+    "SYMBOL": "HIMATSEIDE"
   },
   {
-    "SYMBOLS": "HINDZINC"
+    "SYMBOL": "HINDALCO"
   },
   {
-    "SYMBOLS": "HIRECT"
+    "SYMBOL": "HINDCOMPOS"
   },
   {
-    "SYMBOLS": "HISARMETAL"
+    "SYMBOL": "HINDCOPPER"
   },
   {
-    "SYMBOLS": "HITECH"
+    "SYMBOL": "HINDMOTORS"
   },
   {
-    "SYMBOLS": "HITECHCORP"
+    "SYMBOL": "HINDNATGLS"
   },
   {
-    "SYMBOLS": "HITECHGEAR"
+    "SYMBOL": "HINDOILEXP"
   },
   {
-    "SYMBOLS": "HLVLTD"
+    "SYMBOL": "HINDPETRO"
   },
   {
-    "SYMBOLS": "HMT"
+    "SYMBOL": "HINDUNILVR"
   },
   {
-    "SYMBOLS": "HMVL"
+    "SYMBOL": "HINDZINC"
   },
   {
-    "SYMBOLS": "HNDFDS"
+    "SYMBOL": "HIRECT"
   },
   {
-    "SYMBOLS": "HONAUT"
+    "SYMBOL": "HISARMETAL"
   },
   {
-    "SYMBOLS": "HONDAPOWER"
+    "SYMBOL": "HITECH"
   },
   {
-    "SYMBOLS": "HOTELRUGBY"
+    "SYMBOL": "HITECHCORP"
   },
   {
-    "SYMBOLS": "HOVS"
+    "SYMBOL": "HITECHGEAR"
   },
   {
-    "SYMBOLS": "HPL"
+    "SYMBOL": "HLVLTD"
   },
   {
-    "SYMBOLS": "HSCL"
+    "SYMBOL": "HMT"
   },
   {
-    "SYMBOLS": "HSIL"
+    "SYMBOL": "HMVL"
   },
   {
-    "SYMBOLS": "HTMEDIA"
+    "SYMBOL": "HNDFDS"
   },
   {
-    "SYMBOLS": "HUBTOWN"
+    "SYMBOL": "HONAUT"
   },
   {
-    "SYMBOLS": "HUDCO"
+    "SYMBOL": "HONDAPOWER"
   },
   {
-    "SYMBOLS": "IBREALEST"
+    "SYMBOL": "HOTELRUGBY"
   },
   {
-    "SYMBOLS": "IBULHSGFIN"
+    "SYMBOL": "HOVS"
   },
   {
-    "SYMBOLS": "IBULISL"
+    "SYMBOL": "HPL"
   },
   {
-    "SYMBOLS": "IBVENTURES"
+    "SYMBOL": "HSCL"
   },
   {
-    "SYMBOLS": "ICICIBANK"
+    "SYMBOL": "HSIL"
   },
   {
-    "SYMBOLS": "ICICIGI"
+    "SYMBOL": "HTMEDIA"
   },
   {
-    "SYMBOLS": "ICICIPRULI"
+    "SYMBOL": "HUBTOWN"
   },
   {
-    "SYMBOLS": "ICIL"
+    "SYMBOL": "HUDCO"
   },
   {
-    "SYMBOLS": "ICRA"
+    "SYMBOL": "HUHTAMAKI"
   },
   {
-    "SYMBOLS": "IDBI"
+    "SYMBOL": "IBREALEST"
   },
   {
-    "SYMBOLS": "IDEA"
+    "SYMBOL": "IBULHSGFIN"
   },
   {
-    "SYMBOLS": "IDFC"
+    "SYMBOL": "ICEMAKE"
   },
   {
-    "SYMBOLS": "IDFCFIRSTB"
+    "SYMBOL": "ICICIBANK"
   },
   {
-    "SYMBOLS": "IEX"
+    "SYMBOL": "ICICIGI"
   },
   {
-    "SYMBOLS": "IFBAGRO"
+    "SYMBOL": "ICICIPRULI"
   },
   {
-    "SYMBOLS": "IFBIND"
+    "SYMBOL": "ICIL"
   },
   {
-    "SYMBOLS": "IFCI"
+    "SYMBOL": "ICRA"
   },
   {
-    "SYMBOLS": "IFGLEXPOR"
+    "SYMBOL": "IDBI"
   },
   {
-    "SYMBOLS": "IGARASHI"
+    "SYMBOL": "IDEA"
   },
   {
-    "SYMBOLS": "IGL"
+    "SYMBOL": "IDFC"
   },
   {
-    "SYMBOLS": "IGPL"
+    "SYMBOL": "IDFCFIRSTB"
   },
   {
-    "SYMBOLS": "IIFL"
+    "SYMBOL": "IEX"
   },
   {
-    "SYMBOLS": "IIFLSEC"
+    "SYMBOL": "IFBAGRO"
   },
   {
-    "SYMBOLS": "IIFLWAM"
+    "SYMBOL": "IFBIND"
   },
   {
-    "SYMBOLS": "IITL"
+    "SYMBOL": "IFCI"
   },
   {
-    "SYMBOLS": "IL&FSENGG"
+    "SYMBOL": "IFGLEXPOR"
   },
   {
-    "SYMBOLS": "IL&FSTRANS"
+    "SYMBOL": "IGARASHI"
   },
   {
-    "SYMBOLS": "IMAGICAA"
+    "SYMBOL": "IGL"
   },
   {
-    "SYMBOLS": "IMFA"
+    "SYMBOL": "IGPL"
   },
   {
-    "SYMBOLS": "IMPAL"
+    "SYMBOL": "IIFL"
   },
   {
-    "SYMBOLS": "IMPEXFERRO"
+    "SYMBOL": "IIFLSEC"
   },
   {
-    "SYMBOLS": "INDBANK"
+    "SYMBOL": "IIFLWAM"
   },
   {
-    "SYMBOLS": "INDHOTEL"
+    "SYMBOL": "IITL"
   },
   {
-    "SYMBOLS": "INDIACEM"
+    "SYMBOL": "IL&FSENGG"
   },
   {
-    "SYMBOLS": "INDIAGLYCO"
+    "SYMBOL": "IL&FSTRANS"
   },
   {
-    "SYMBOLS": "INDIAMART"
+    "SYMBOL": "IMAGICAA"
   },
   {
-    "SYMBOLS": "INDIANB"
+    "SYMBOL": "IMFA"
   },
   {
-    "SYMBOLS": "INDIANCARD"
+    "SYMBOL": "IMPAL"
   },
   {
-    "SYMBOLS": "INDIANHUME"
+    "SYMBOL": "IMPEXFERRO"
   },
   {
-    "SYMBOLS": "INDIGO"
+    "SYMBOL": "INDBANK"
   },
   {
-    "SYMBOLS": "INDLMETER"
+    "SYMBOL": "INDHOTEL"
   },
   {
-    "SYMBOLS": "INDNIPPON"
+    "SYMBOL": "INDIACEM"
   },
   {
-    "SYMBOLS": "INDOCO"
+    "SYMBOL": "INDIAGLYCO"
   },
   {
-    "SYMBOLS": "INDORAMA"
+    "SYMBOL": "INDIAMART"
   },
   {
-    "SYMBOLS": "INDOSOLAR"
+    "SYMBOL": "INDIANB"
   },
   {
-    "SYMBOLS": "INDOSTAR"
+    "SYMBOL": "INDIANCARD"
   },
   {
-    "SYMBOLS": "INDOTECH"
+    "SYMBOL": "INDIANHUME"
   },
   {
-    "SYMBOLS": "INDOTHAI"
+    "SYMBOL": "INDIGO"
   },
   {
-    "SYMBOLS": "INDOWIND"
+    "SYMBOL": "INDLMETER"
   },
   {
-    "SYMBOLS": "INDRAMEDCO"
+    "SYMBOL": "INDNIPPON"
   },
   {
-    "SYMBOLS": "INDSWFTLAB"
+    "SYMBOL": "INDOCO"
   },
   {
-    "SYMBOLS": "INDTERRAIN"
+    "SYMBOL": "INDORAMA"
   },
   {
-    "SYMBOLS": "INDUSINDBK"
+    "SYMBOL": "INDOSOLAR"
   },
   {
-    "SYMBOLS": "INEOSSTYRO"
+    "SYMBOL": "INDOSTAR"
   },
   {
-    "SYMBOLS": "INFIBEAM"
+    "SYMBOL": "INDOTECH"
   },
   {
-    "SYMBOLS": "INFOBEAN"
+    "SYMBOL": "INDOTHAI"
   },
   {
-    "SYMBOLS": "INFOMEDIA"
+    "SYMBOL": "INDOWIND"
   },
   {
-    "SYMBOLS": "INFRATEL"
+    "SYMBOL": "INDRAMEDCO"
   },
   {
-    "SYMBOLS": "INFY"
+    "SYMBOL": "INDSWFTLAB"
   },
   {
-    "SYMBOLS": "INGERRAND"
+    "SYMBOL": "INDTERRAIN"
   },
   {
-    "SYMBOLS": "INOXLEISUR"
+    "SYMBOL": "INDUSINDBK"
   },
   {
-    "SYMBOLS": "INOXWIND"
+    "SYMBOL": "INEOSSTYRO"
   },
   {
-    "SYMBOLS": "INSECTICID"
+    "SYMBOL": "INFIBEAM"
   },
   {
-    "SYMBOLS": "INSPIRISYS"
+    "SYMBOL": "INFOBEAN"
   },
   {
-    "SYMBOLS": "INTEGRA"
+    "SYMBOL": "INFRATEL"
   },
   {
-    "SYMBOLS": "INTELLECT"
+    "SYMBOL": "INFY"
   },
   {
-    "SYMBOLS": "INTENTECH"
+    "SYMBOL": "INGERRAND"
   },
   {
-    "SYMBOLS": "INVENTURE"
+    "SYMBOL": "INOXLEISUR"
   },
   {
-    "SYMBOLS": "IOB"
+    "SYMBOL": "INOXWIND"
   },
   {
-    "SYMBOLS": "IOC"
+    "SYMBOL": "INSECTICID"
   },
   {
-    "SYMBOLS": "IOLCP"
+    "SYMBOL": "INSPIRISYS"
   },
   {
-    "SYMBOLS": "IPCALAB"
+    "SYMBOL": "INTEGRA"
   },
   {
-    "SYMBOLS": "IRB"
+    "SYMBOL": "INTELLECT"
   },
   {
-    "SYMBOLS": "IRCON"
+    "SYMBOL": "INTENTECH"
   },
   {
-    "SYMBOLS": "IRCTC"
+    "SYMBOL": "INVENTURE"
   },
   {
-    "SYMBOLS": "ISEC"
+    "SYMBOL": "IOB"
   },
   {
-    "SYMBOLS": "ISFT"
+    "SYMBOL": "IOC"
   },
   {
-    "SYMBOLS": "ISMTLTD"
+    "SYMBOL": "IOLCP"
   },
   {
-    "SYMBOLS": "ITC"
+    "SYMBOL": "IPCALAB"
   },
   {
-    "SYMBOLS": "ITDC"
+    "SYMBOL": "IRB"
   },
   {
-    "SYMBOLS": "ITDCEM"
+    "SYMBOL": "IRCON"
   },
   {
-    "SYMBOLS": "ITI"
+    "SYMBOL": "IRCTC"
   },
   {
-    "SYMBOLS": "IVC"
+    "SYMBOL": "ISEC"
   },
   {
-    "SYMBOLS": "IVP"
+    "SYMBOL": "ISFT"
   },
   {
-    "SYMBOLS": "IZMO"
+    "SYMBOL": "ISMTLTD"
   },
   {
-    "SYMBOLS": "J&KBANK"
+    "SYMBOL": "ITC"
   },
   {
-    "SYMBOLS": "JAGRAN"
+    "SYMBOL": "ITDC"
   },
   {
-    "SYMBOLS": "JAGSNPHARM"
+    "SYMBOL": "ITDCEM"
   },
   {
-    "SYMBOLS": "JAIBALAJI"
+    "SYMBOL": "ITI"
   },
   {
-    "SYMBOLS": "JAICORPLTD"
+    "SYMBOL": "IVC"
   },
   {
-    "SYMBOLS": "JAIHINDPRO"
+    "SYMBOL": "IVP"
   },
   {
-    "SYMBOLS": "JAINSTUDIO"
+    "SYMBOL": "IZMO"
   },
   {
-    "SYMBOLS": "JAMNAAUTO"
+    "SYMBOL": "J&KBANK"
   },
   {
-    "SYMBOLS": "JASH"
+    "SYMBOL": "JAGRAN"
   },
   {
-    "SYMBOLS": "JAYAGROGN"
+    "SYMBOL": "JAGSNPHARM"
   },
   {
-    "SYMBOLS": "JAYBARMARU"
+    "SYMBOL": "JAIBALAJI"
   },
   {
-    "SYMBOLS": "JAYNECOIND"
+    "SYMBOL": "JAICORPLTD"
   },
   {
-    "SYMBOLS": "JAYSREETEA"
+    "SYMBOL": "JAIHINDPRO"
   },
   {
-    "SYMBOLS": "JBCHEPHARM"
+    "SYMBOL": "JAINSTUDIO"
   },
   {
-    "SYMBOLS": "JBFIND"
+    "SYMBOL": "JAMNAAUTO"
   },
   {
-    "SYMBOLS": "JBMA"
+    "SYMBOL": "JASH"
   },
   {
-    "SYMBOLS": "JCHAC"
+    "SYMBOL": "JAYAGROGN"
   },
   {
-    "SYMBOLS": "JETAIRWAYS"
+    "SYMBOL": "JAYBARMARU"
   },
   {
-    "SYMBOLS": "JHS"
+    "SYMBOL": "JAYNECOIND"
   },
   {
-    "SYMBOLS": "JIKIND"
+    "SYMBOL": "JAYSREETEA"
   },
   {
-    "SYMBOLS": "JINDALPHOT"
+    "SYMBOL": "JBCHEPHARM"
   },
   {
-    "SYMBOLS": "JINDALPOLY"
+    "SYMBOL": "JBFIND"
   },
   {
-    "SYMBOLS": "JINDALSAW"
+    "SYMBOL": "JBMA"
   },
   {
-    "SYMBOLS": "JINDALSTEL"
+    "SYMBOL": "JCHAC"
   },
   {
-    "SYMBOLS": "JINDRILL"
+    "SYMBOL": "JETAIRWAYS"
   },
   {
-    "SYMBOLS": "JINDWORLD"
+    "SYMBOL": "JHS"
   },
   {
-    "SYMBOLS": "JISLDVREQS"
+    "SYMBOL": "JIKIND"
   },
   {
-    "SYMBOLS": "JISLJALEQS"
+    "SYMBOL": "JINDALPHOT"
   },
   {
-    "SYMBOLS": "JITFINFRA"
+    "SYMBOL": "JINDALPOLY"
   },
   {
-    "SYMBOLS": "JIYAECO"
+    "SYMBOL": "JINDALSAW"
   },
   {
-    "SYMBOLS": "JKCEMENT"
+    "SYMBOL": "JINDALSTEL"
   },
   {
-    "SYMBOLS": "JKIL"
+    "SYMBOL": "JINDRILL"
   },
   {
-    "SYMBOLS": "JKLAKSHMI"
+    "SYMBOL": "JINDWORLD"
   },
   {
-    "SYMBOLS": "JKPAPER"
+    "SYMBOL": "JISLDVREQS"
   },
   {
-    "SYMBOLS": "JKTYRE"
+    "SYMBOL": "JISLJALEQS"
   },
   {
-    "SYMBOLS": "JMA"
+    "SYMBOL": "JITFINFRA"
   },
   {
-    "SYMBOLS": "JMCPROJECT"
+    "SYMBOL": "JIYAECO"
   },
   {
-    "SYMBOLS": "JMFINANCIL"
+    "SYMBOL": "JKCEMENT"
   },
   {
-    "SYMBOLS": "JMTAUTOLTD"
+    "SYMBOL": "JKIL"
   },
   {
-    "SYMBOLS": "JOCIL"
+    "SYMBOL": "JKLAKSHMI"
   },
   {
-    "SYMBOLS": "JPASSOCIAT"
+    "SYMBOL": "JKPAPER"
   },
   {
-    "SYMBOLS": "JPINFRATEC"
+    "SYMBOL": "JKTYRE"
   },
   {
-    "SYMBOLS": "JPOLYINVST"
+    "SYMBOL": "JMA"
   },
   {
-    "SYMBOLS": "JPPOWER"
+    "SYMBOL": "JMCPROJECT"
   },
   {
-    "SYMBOLS": "JSL"
+    "SYMBOL": "JMFINANCIL"
   },
   {
-    "SYMBOLS": "JSLHISAR"
+    "SYMBOL": "JMTAUTOLTD"
   },
   {
-    "SYMBOLS": "JSWENERGY"
+    "SYMBOL": "JOCIL"
   },
   {
-    "SYMBOLS": "JSWHL"
+    "SYMBOL": "JPASSOCIAT"
   },
   {
-    "SYMBOLS": "JSWSTEEL"
+    "SYMBOL": "JPINFRATEC"
   },
   {
-    "SYMBOLS": "JTEKTINDIA"
+    "SYMBOL": "JPOLYINVST"
   },
   {
-    "SYMBOLS": "JUBILANT"
+    "SYMBOL": "JPPOWER"
   },
   {
-    "SYMBOLS": "JUBLFOOD"
+    "SYMBOL": "JSL"
   },
   {
-    "SYMBOLS": "JUBLINDS"
+    "SYMBOL": "JSLHISAR"
   },
   {
-    "SYMBOLS": "JUMPNET"
+    "SYMBOL": "JSWENERGY"
   },
   {
-    "SYMBOLS": "JUSTDIAL"
+    "SYMBOL": "JSWHL"
   },
   {
-    "SYMBOLS": "JYOTHYLAB"
+    "SYMBOL": "JSWISPL"
   },
   {
-    "SYMBOLS": "JYOTISTRUC"
+    "SYMBOL": "JSWSTEEL"
   },
   {
-    "SYMBOLS": "KABRAEXTRU"
+    "SYMBOL": "JTEKTINDIA"
   },
   {
-    "SYMBOLS": "KAJARIACER"
+    "SYMBOL": "JUBILANT"
   },
   {
-    "SYMBOLS": "KAKATCEM"
+    "SYMBOL": "JUBLFOOD"
   },
   {
-    "SYMBOLS": "KALPATPOWR"
+    "SYMBOL": "JUBLINDS"
   },
   {
-    "SYMBOLS": "KALYANI"
+    "SYMBOL": "JUMPNET"
   },
   {
-    "SYMBOLS": "KALYANIFRG"
+    "SYMBOL": "JUSTDIAL"
   },
   {
-    "SYMBOLS": "KAMATHOTEL"
+    "SYMBOL": "JYOTHYLAB"
   },
   {
-    "SYMBOLS": "KAMDHENU"
+    "SYMBOL": "JYOTISTRUC"
   },
   {
-    "SYMBOLS": "KANANIIND"
+    "SYMBOL": "KABRAEXTRU"
   },
   {
-    "SYMBOLS": "KANORICHEM"
+    "SYMBOL": "KAJARIACER"
   },
   {
-    "SYMBOLS": "KANSAINER"
+    "SYMBOL": "KAKATCEM"
   },
   {
-    "SYMBOLS": "KAPSTON"
+    "SYMBOL": "KALPATPOWR"
   },
   {
-    "SYMBOLS": "KARDA"
+    "SYMBOL": "KALYANI"
   },
   {
-    "SYMBOLS": "KARMAENG"
+    "SYMBOL": "KALYANIFRG"
   },
   {
-    "SYMBOLS": "KARURVYSYA"
+    "SYMBOL": "KAMATHOTEL"
   },
   {
-    "SYMBOLS": "KAUSHALYA"
+    "SYMBOL": "KAMDHENU"
   },
   {
-    "SYMBOLS": "KAYA"
+    "SYMBOL": "KANANIIND"
   },
   {
-    "SYMBOLS": "KCP"
+    "SYMBOL": "KANORICHEM"
   },
   {
-    "SYMBOLS": "KCPSUGIND"
+    "SYMBOL": "KANSAINER"
   },
   {
-    "SYMBOLS": "KDDL"
+    "SYMBOL": "KAPSTON"
   },
   {
-    "SYMBOLS": "KEC"
+    "SYMBOL": "KARDA"
   },
   {
-    "SYMBOLS": "KECL"
+    "SYMBOL": "KARMAENG"
   },
   {
-    "SYMBOLS": "KEI"
+    "SYMBOL": "KARURVYSYA"
   },
   {
-    "SYMBOLS": "KELLTONTEC"
+    "SYMBOL": "KAUSHALYA"
   },
   {
-    "SYMBOLS": "KENNAMET"
+    "SYMBOL": "KAYA"
   },
   {
-    "SYMBOLS": "KERNEX"
+    "SYMBOL": "KCP"
   },
   {
-    "SYMBOLS": "KESORAMIND"
+    "SYMBOL": "KCPSUGIND"
   },
   {
-    "SYMBOLS": "KEYFINSERV"
+    "SYMBOL": "KDDL"
   },
   {
-    "SYMBOLS": "KGL"
+    "SYMBOL": "KEC"
   },
   {
-    "SYMBOLS": "KHADIM"
+    "SYMBOL": "KECL"
   },
   {
-    "SYMBOLS": "KHANDSE"
+    "SYMBOL": "KEERTI"
   },
   {
-    "SYMBOLS": "KICL"
+    "SYMBOL": "KEI"
   },
   {
-    "SYMBOLS": "KILITCH"
+    "SYMBOL": "KELLTONTEC"
   },
   {
-    "SYMBOLS": "KINGFA"
+    "SYMBOL": "KENNAMET"
   },
   {
-    "SYMBOLS": "KIOCL"
+    "SYMBOL": "KERNEX"
   },
   {
-    "SYMBOLS": "KIRIINDUS"
+    "SYMBOL": "KESORAMIND"
   },
   {
-    "SYMBOLS": "KIRLFER"
+    "SYMBOL": "KEYFINSERV"
   },
   {
-    "SYMBOLS": "KIRLOSBROS"
+    "SYMBOL": "KGL"
   },
   {
-    "SYMBOLS": "KIRLOSENG"
+    "SYMBOL": "KHADIM"
   },
   {
-    "SYMBOLS": "KIRLOSIND"
+    "SYMBOL": "KHAICHEM"
   },
   {
-    "SYMBOLS": "KITEX"
+    "SYMBOL": "KHANDSE"
   },
   {
-    "SYMBOLS": "KKCL"
+    "SYMBOL": "KICL"
   },
   {
-    "SYMBOLS": "KMSUGAR"
+    "SYMBOL": "KILITCH"
   },
   {
-    "SYMBOLS": "KNRCON"
+    "SYMBOL": "KINGFA"
   },
   {
-    "SYMBOLS": "KOHINOOR"
+    "SYMBOL": "KIOCL"
   },
   {
-    "SYMBOLS": "KOKUYOCMLN"
+    "SYMBOL": "KIRIINDUS"
   },
   {
-    "SYMBOLS": "KOLTEPATIL"
+    "SYMBOL": "KIRLFER"
   },
   {
-    "SYMBOLS": "KOPRAN"
+    "SYMBOL": "KIRLOSBROS"
   },
   {
-    "SYMBOLS": "KOTAKBANK"
+    "SYMBOL": "KIRLOSENG"
   },
   {
-    "SYMBOLS": "KOTARISUG"
+    "SYMBOL": "KIRLOSIND"
   },
   {
-    "SYMBOLS": "KOTHARIPET"
+    "SYMBOL": "KITEX"
   },
   {
-    "SYMBOLS": "KOTHARIPRO"
+    "SYMBOL": "KKCL"
   },
   {
-    "SYMBOLS": "KPITTECH"
+    "SYMBOL": "KMSUGAR"
   },
   {
-    "SYMBOLS": "KPRMILL"
+    "SYMBOL": "KNRCON"
   },
   {
-    "SYMBOLS": "KRBL"
+    "SYMBOL": "KOKUYOCMLN"
   },
   {
-    "SYMBOLS": "KREBSBIO"
+    "SYMBOL": "KOLTEPATIL"
   },
   {
-    "SYMBOLS": "KRIDHANINF"
+    "SYMBOL": "KOPRAN"
   },
   {
-    "SYMBOLS": "KRISHANA"
+    "SYMBOL": "KOTAKBANK"
   },
   {
-    "SYMBOLS": "KSB"
+    "SYMBOL": "KOTARISUG"
   },
   {
-    "SYMBOLS": "KSCL"
+    "SYMBOL": "KOTHARIPET"
   },
   {
-    "SYMBOLS": "KSERASERA"
+    "SYMBOL": "KOTHARIPRO"
   },
   {
-    "SYMBOLS": "KSK"
+    "SYMBOL": "KPITTECH"
   },
   {
-    "SYMBOLS": "KSL"
+    "SYMBOL": "KPRMILL"
   },
   {
-    "SYMBOLS": "KTKBANK"
+    "SYMBOL": "KRBL"
   },
   {
-    "SYMBOLS": "KUANTUM"
+    "SYMBOL": "KREBSBIO"
   },
   {
-    "SYMBOLS": "KWALITY"
+    "SYMBOL": "KRIDHANINF"
   },
   {
-    "SYMBOLS": "L&TFH"
+    "SYMBOL": "KRISHANA"
   },
   {
-    "SYMBOLS": "LAKPRE"
+    "SYMBOL": "KSB"
   },
   {
-    "SYMBOLS": "LAKSHVILAS"
+    "SYMBOL": "KSCL"
   },
   {
-    "SYMBOLS": "LALPATHLAB"
+    "SYMBOL": "KSK"
   },
   {
-    "SYMBOLS": "LAMBODHARA"
+    "SYMBOL": "KSL"
   },
   {
-    "SYMBOLS": "LAOPALA"
+    "SYMBOL": "KTKBANK"
   },
   {
-    "SYMBOLS": "LASA"
+    "SYMBOL": "KUANTUM"
   },
   {
-    "SYMBOLS": "LAURUSLABS"
+    "SYMBOL": "KWALITY"
   },
   {
-    "SYMBOLS": "LAXMIMACH"
+    "SYMBOL": "L&TFH"
   },
   {
-    "SYMBOLS": "LEMONTREE"
+    "SYMBOL": "LAKPRE"
   },
   {
-    "SYMBOLS": "LFIC"
+    "SYMBOL": "LALPATHLAB"
   },
   {
-    "SYMBOLS": "LGBBROSLTD"
+    "SYMBOL": "LAMBODHARA"
   },
   {
-    "SYMBOLS": "LGBFORGE"
+    "SYMBOL": "LAOPALA"
   },
   {
-    "SYMBOLS": "LIBAS"
+    "SYMBOL": "LASA"
   },
   {
-    "SYMBOLS": "LIBERTSHOE"
+    "SYMBOL": "LAURUSLABS"
   },
   {
-    "SYMBOLS": "LICHSGFIN"
+    "SYMBOL": "LAXMIMACH"
   },
   {
-    "SYMBOLS": "LINCOLN"
+    "SYMBOL": "LEMONTREE"
   },
   {
-    "SYMBOLS": "LINCPEN"
+    "SYMBOL": "LFIC"
   },
   {
-    "SYMBOLS": "LINDEINDIA"
+    "SYMBOL": "LGBBROSLTD"
   },
   {
-    "SYMBOLS": "LOKESHMACH"
+    "SYMBOL": "LGBFORGE"
   },
   {
-    "SYMBOLS": "LOTUSEYE"
+    "SYMBOL": "LIBAS"
   },
   {
-    "SYMBOLS": "LOVABLE"
+    "SYMBOL": "LIBERTSHOE"
   },
   {
-    "SYMBOLS": "LPDC"
+    "SYMBOL": "LICHSGFIN"
   },
   {
-    "SYMBOLS": "LSIL"
+    "SYMBOL": "LIKHITHA"
   },
   {
-    "SYMBOLS": "LT"
+    "SYMBOL": "LINCOLN"
   },
   {
-    "SYMBOLS": "LTI"
+    "SYMBOL": "LINCPEN"
   },
   {
-    "SYMBOLS": "LTTS"
+    "SYMBOL": "LINDEINDIA"
   },
   {
-    "SYMBOLS": "LUMAXIND"
+    "SYMBOL": "LOKESHMACH"
   },
   {
-    "SYMBOLS": "LUMAXTECH"
+    "SYMBOL": "LOTUSEYE"
   },
   {
-    "SYMBOLS": "LUPIN"
+    "SYMBOL": "LOVABLE"
   },
   {
-    "SYMBOLS": "LUXIND"
+    "SYMBOL": "LPDC"
   },
   {
-    "SYMBOLS": "LYKALABS"
+    "SYMBOL": "LSIL"
   },
   {
-    "SYMBOLS": "LYPSAGEMS"
+    "SYMBOL": "LT"
   },
   {
-    "SYMBOLS": "M&M"
+    "SYMBOL": "LTI"
   },
   {
-    "SYMBOLS": "M&MFIN"
+    "SYMBOL": "LTTS"
   },
   {
-    "SYMBOLS": "MAANALU"
+    "SYMBOL": "LUMAXIND"
   },
   {
-    "SYMBOLS": "MACPOWER"
+    "SYMBOL": "LUMAXTECH"
   },
   {
-    "SYMBOLS": "MADHAV"
+    "SYMBOL": "LUPIN"
   },
   {
-    "SYMBOLS": "MADHUCON"
+    "SYMBOL": "LUXIND"
   },
   {
-    "SYMBOLS": "MADRASFERT"
+    "SYMBOL": "LYKALABS"
   },
   {
-    "SYMBOLS": "MAGADSUGAR"
+    "SYMBOL": "LYPSAGEMS"
   },
   {
-    "SYMBOLS": "MAGMA"
+    "SYMBOL": "M&M"
   },
   {
-    "SYMBOLS": "MAGNUM"
+    "SYMBOL": "M&MFIN"
   },
   {
-    "SYMBOLS": "MAHABANK"
+    "SYMBOL": "MAANALU"
   },
   {
-    "SYMBOLS": "MAHAPEXLTD"
+    "SYMBOL": "MACPOWER"
   },
   {
-    "SYMBOLS": "MAHASTEEL"
+    "SYMBOL": "MADHAV"
   },
   {
-    "SYMBOLS": "MAHEPC"
+    "SYMBOL": "MADHUCON"
   },
   {
-    "SYMBOLS": "MAHESHWARI"
+    "SYMBOL": "MADRASFERT"
   },
   {
-    "SYMBOLS": "MAHINDCIE"
+    "SYMBOL": "MAGADSUGAR"
   },
   {
-    "SYMBOLS": "MAHLIFE"
+    "SYMBOL": "MAGMA"
   },
   {
-    "SYMBOLS": "MAHLOG"
+    "SYMBOL": "MAGNUM"
   },
   {
-    "SYMBOLS": "MAHSCOOTER"
+    "SYMBOL": "MAHABANK"
   },
   {
-    "SYMBOLS": "MAHSEAMLES"
+    "SYMBOL": "MAHAPEXLTD"
   },
   {
-    "SYMBOLS": "MAITHANALL"
+    "SYMBOL": "MAHASTEEL"
   },
   {
-    "SYMBOLS": "MAJESCO"
+    "SYMBOL": "MAHEPC"
   },
   {
-    "SYMBOLS": "MALUPAPER"
+    "SYMBOL": "MAHESHWARI"
   },
   {
-    "SYMBOLS": "MANAKALUCO"
+    "SYMBOL": "MAHINDCIE"
   },
   {
-    "SYMBOLS": "MANAKCOAT"
+    "SYMBOL": "MAHLIFE"
   },
   {
-    "SYMBOLS": "MANAKSIA"
+    "SYMBOL": "MAHLOG"
   },
   {
-    "SYMBOLS": "MANAKSTEEL"
+    "SYMBOL": "MAHSCOOTER"
   },
   {
-    "SYMBOLS": "MANALIPETC"
+    "SYMBOL": "MAHSEAMLES"
   },
   {
-    "SYMBOLS": "MANAPPURAM"
+    "SYMBOL": "MAITHANALL"
   },
   {
-    "SYMBOLS": "MANGALAM"
+    "SYMBOL": "MAJESCO"
   },
   {
-    "SYMBOLS": "MANGCHEFER"
+    "SYMBOL": "MALUPAPER"
   },
   {
-    "SYMBOLS": "MANGLMCEM"
+    "SYMBOL": "MANAKALUCO"
   },
   {
-    "SYMBOLS": "MANGTIMBER"
+    "SYMBOL": "MANAKCOAT"
   },
   {
-    "SYMBOLS": "MANINDS"
+    "SYMBOL": "MANAKSIA"
   },
   {
-    "SYMBOLS": "MANINFRA"
+    "SYMBOL": "MANAKSTEEL"
   },
   {
-    "SYMBOLS": "MANUGRAPH"
+    "SYMBOL": "MANALIPETC"
   },
   {
-    "SYMBOLS": "MARALOVER"
+    "SYMBOL": "MANAPPURAM"
   },
   {
-    "SYMBOLS": "MARATHON"
+    "SYMBOL": "MANGALAM"
   },
   {
-    "SYMBOLS": "MARICO"
+    "SYMBOL": "MANGCHEFER"
   },
   {
-    "SYMBOLS": "MARKSANS"
+    "SYMBOL": "MANGLMCEM"
   },
   {
-    "SYMBOLS": "MARUTI"
+    "SYMBOL": "MANGTIMBER"
   },
   {
-    "SYMBOLS": "MASFIN"
+    "SYMBOL": "MANINDS"
   },
   {
-    "SYMBOLS": "MASKINVEST"
+    "SYMBOL": "MANINFRA"
   },
   {
-    "SYMBOLS": "MASTEK"
+    "SYMBOL": "MANUGRAPH"
   },
   {
-    "SYMBOLS": "MATRIMONY"
+    "SYMBOL": "MARALOVER"
   },
   {
-    "SYMBOLS": "MAWANASUG"
+    "SYMBOL": "MARATHON"
   },
   {
-    "SYMBOLS": "MAXHEALTH"
+    "SYMBOL": "MARICO"
   },
   {
-    "SYMBOLS": "MAXIND"
+    "SYMBOL": "MARINE"
   },
   {
-    "SYMBOLS": "MAXVIL"
+    "SYMBOL": "MARKSANS"
   },
   {
-    "SYMBOLS": "MAYURUNIQ"
+    "SYMBOL": "MARUTI"
   },
   {
-    "SYMBOLS": "MAZDA"
+    "SYMBOL": "MASFIN"
   },
   {
-    "SYMBOLS": "MBAPL"
+    "SYMBOL": "MASKINVEST"
   },
   {
-    "SYMBOLS": "MBECL"
+    "SYMBOL": "MASTEK"
   },
   {
-    "SYMBOLS": "MBLINFRA"
+    "SYMBOL": "MATRIMONY"
   },
   {
-    "SYMBOLS": "MCDHOLDING"
+    "SYMBOL": "MAWANASUG"
   },
   {
-    "SYMBOLS": "MCDOWELL-N"
+    "SYMBOL": "MAXHEALTH"
   },
   {
-    "SYMBOLS": "MCL"
+    "SYMBOL": "MAXIND"
   },
   {
-    "SYMBOLS": "MCLEODRUSS"
+    "SYMBOL": "MAXVIL"
   },
   {
-    "SYMBOLS": "MCX"
+    "SYMBOL": "MAYURUNIQ"
   },
   {
-    "SYMBOLS": "MEGASOFT"
+    "SYMBOL": "MAZDA"
   },
   {
-    "SYMBOLS": "MEGH"
+    "SYMBOL": "MAZDOCK"
   },
   {
-    "SYMBOLS": "MELSTAR"
+    "SYMBOL": "MBAPL"
   },
   {
-    "SYMBOLS": "MENONBE"
+    "SYMBOL": "MBECL"
   },
   {
-    "SYMBOLS": "MEP"
+    "SYMBOL": "MBLINFRA"
   },
   {
-    "SYMBOLS": "MERCATOR"
+    "SYMBOL": "MCDHOLDING"
   },
   {
-    "SYMBOLS": "METALFORGE"
+    "SYMBOL": "MCDOWELL-N"
   },
   {
-    "SYMBOLS": "METKORE"
+    "SYMBOL": "MCL"
   },
   {
-    "SYMBOLS": "METROPOLIS"
+    "SYMBOL": "MCLEODRUSS"
   },
   {
-    "SYMBOLS": "MFSL"
+    "SYMBOL": "MCX"
   },
   {
-    "SYMBOLS": "MGL"
+    "SYMBOL": "MEGASOFT"
   },
   {
-    "SYMBOLS": "MHRIL"
+    "SYMBOL": "MEGH"
   },
   {
-    "SYMBOLS": "MIC"
+    "SYMBOL": "MELSTAR"
   },
   {
-    "SYMBOLS": "MIDHANI"
+    "SYMBOL": "MENONBE"
   },
   {
-    "SYMBOLS": "MINDACORP"
+    "SYMBOL": "MEP"
   },
   {
-    "SYMBOLS": "MINDAIND"
+    "SYMBOL": "MERCATOR"
   },
   {
-    "SYMBOLS": "MINDTECK"
+    "SYMBOL": "METALFORGE"
   },
   {
-    "SYMBOLS": "MINDTREE"
+    "SYMBOL": "METKORE"
   },
   {
-    "SYMBOLS": "MIRCELECTR"
+    "SYMBOL": "METROPOLIS"
   },
   {
-    "SYMBOLS": "MIRZAINT"
+    "SYMBOL": "MFSL"
   },
   {
-    "SYMBOLS": "MITTAL"
+    "SYMBOL": "MGL"
   },
   {
-    "SYMBOLS": "MMFL"
+    "SYMBOL": "MHRIL"
   },
   {
-    "SYMBOLS": "MMP"
+    "SYMBOL": "MIC"
   },
   {
-    "SYMBOLS": "MMTC"
+    "SYMBOL": "MIDHANI"
   },
   {
-    "SYMBOLS": "MODIRUBBER"
+    "SYMBOL": "MINDACORP"
   },
   {
-    "SYMBOLS": "MOHITIND"
+    "SYMBOL": "MINDAIND"
   },
   {
-    "SYMBOLS": "MOHOTAIND"
+    "SYMBOL": "MINDTECK"
   },
   {
-    "SYMBOLS": "MOIL"
+    "SYMBOL": "MINDTREE"
   },
   {
-    "SYMBOLS": "MOLDTECH"
+    "SYMBOL": "MIRCELECTR"
   },
   {
-    "SYMBOLS": "MOLDTKPAC"
+    "SYMBOL": "MIRZAINT"
   },
   {
-    "SYMBOLS": "MONTECARLO"
+    "SYMBOL": "MITTAL"
   },
   {
-    "SYMBOLS": "MORARJEE"
+    "SYMBOL": "MMFL"
   },
   {
-    "SYMBOLS": "MOREPENLAB"
+    "SYMBOL": "MMP"
   },
   {
-    "SYMBOLS": "MOTHERSUMI"
+    "SYMBOL": "MMTC"
   },
   {
-    "SYMBOLS": "MOTILALOFS"
+    "SYMBOL": "MODIRUBBER"
   },
   {
-    "SYMBOLS": "MOTOGENFIN"
+    "SYMBOL": "MOHITIND"
   },
   {
-    "SYMBOLS": "MPHASIS"
+    "SYMBOL": "MOHOTAIND"
   },
   {
-    "SYMBOLS": "MPSLTD"
+    "SYMBOL": "MOIL"
   },
   {
-    "SYMBOLS": "MRF"
+    "SYMBOL": "MOLDTECH"
   },
   {
-    "SYMBOLS": "MRO-TEK"
+    "SYMBOL": "MOLDTKPAC"
   },
   {
-    "SYMBOLS": "MRPL"
+    "SYMBOL": "MONTECARLO"
   },
   {
-    "SYMBOLS": "MSPL"
+    "SYMBOL": "MORARJEE"
   },
   {
-    "SYMBOLS": "MSTCLTD"
+    "SYMBOL": "MOREPENLAB"
   },
   {
-    "SYMBOLS": "MTEDUCARE"
+    "SYMBOL": "MOTHERSUMI"
   },
   {
-    "SYMBOLS": "MTNL"
+    "SYMBOL": "MOTILALOFS"
   },
   {
-    "SYMBOLS": "MUKANDENGG"
+    "SYMBOL": "MOTOGENFIN"
   },
   {
-    "SYMBOLS": "MUKANDLTD"
+    "SYMBOL": "MPHASIS"
   },
   {
-    "SYMBOLS": "MUKTAARTS"
+    "SYMBOL": "MPSLTD"
   },
   {
-    "SYMBOLS": "MUNJALAU"
+    "SYMBOL": "MRF"
   },
   {
-    "SYMBOLS": "MUNJALSHOW"
+    "SYMBOL": "MRO-TEK"
   },
   {
-    "SYMBOLS": "MURUDCERA"
+    "SYMBOL": "MRPL"
   },
   {
-    "SYMBOLS": "MUTHOOTCAP"
+    "SYMBOL": "MSPL"
   },
   {
-    "SYMBOLS": "MUTHOOTFIN"
+    "SYMBOL": "MSTCLTD"
   },
   {
-    "SYMBOLS": "NACLIND"
+    "SYMBOL": "MTEDUCARE"
   },
   {
-    "SYMBOLS": "NAGAFERT"
+    "SYMBOL": "MTNL"
   },
   {
-    "SYMBOLS": "NAGREEKCAP"
+    "SYMBOL": "MUKANDENGG"
   },
   {
-    "SYMBOLS": "NAGREEKEXP"
+    "SYMBOL": "MUKANDLTD"
   },
   {
-    "SYMBOLS": "NAHARCAP"
+    "SYMBOL": "MUKTAARTS"
   },
   {
-    "SYMBOLS": "NAHARINDUS"
+    "SYMBOL": "MUNJALAU"
   },
   {
-    "SYMBOLS": "NAHARPOLY"
+    "SYMBOL": "MUNJALSHOW"
   },
   {
-    "SYMBOLS": "NAHARSPING"
+    "SYMBOL": "MURUDCERA"
   },
   {
-    "SYMBOLS": "NAM-INDIA"
+    "SYMBOL": "MUTHOOTCAP"
   },
   {
-    "SYMBOLS": "NATCOPHARM"
+    "SYMBOL": "MUTHOOTFIN"
   },
   {
-    "SYMBOLS": "NATHBIOGEN"
+    "SYMBOL": "NACLIND"
   },
   {
-    "SYMBOLS": "NATIONALUM"
+    "SYMBOL": "NAGAFERT"
   },
   {
-    "SYMBOLS": "NATNLSTEEL"
+    "SYMBOL": "NAGREEKCAP"
   },
   {
-    "SYMBOLS": "NAUKRI"
+    "SYMBOL": "NAGREEKEXP"
   },
   {
-    "SYMBOLS": "NAVINFLUOR"
+    "SYMBOL": "NAHARCAP"
   },
   {
-    "SYMBOLS": "NAVKARCORP"
+    "SYMBOL": "NAHARINDUS"
   },
   {
-    "SYMBOLS": "NAVNETEDUL"
+    "SYMBOL": "NAHARPOLY"
   },
   {
-    "SYMBOLS": "NBCC"
+    "SYMBOL": "NAHARSPING"
   },
   {
-    "SYMBOLS": "NBIFIN"
+    "SYMBOL": "NAM-INDIA"
   },
   {
-    "SYMBOLS": "NBVENTURES"
+    "SYMBOL": "NATCOPHARM"
   },
   {
-    "SYMBOLS": "NCC"
+    "SYMBOL": "NATHBIOGEN"
   },
   {
-    "SYMBOLS": "NCLIND"
+    "SYMBOL": "NATIONALUM"
   },
   {
-    "SYMBOLS": "NDGL"
+    "SYMBOL": "NATNLSTEEL"
   },
   {
-    "SYMBOLS": "NDL"
+    "SYMBOL": "NAUKRI"
   },
   {
-    "SYMBOLS": "NDRAUTO"
+    "SYMBOL": "NAVINFLUOR"
   },
   {
-    "SYMBOLS": "NDTV"
+    "SYMBOL": "NAVKARCORP"
   },
   {
-    "SYMBOLS": "NECCLTD"
+    "SYMBOL": "NAVNETEDUL"
   },
   {
-    "SYMBOLS": "NECLIFE"
+    "SYMBOL": "NBCC"
   },
   {
-    "SYMBOLS": "NELCAST"
+    "SYMBOL": "NBIFIN"
   },
   {
-    "SYMBOLS": "NELCO"
+    "SYMBOL": "NBVENTURES"
   },
   {
-    "SYMBOLS": "NEOGEN"
+    "SYMBOL": "NCC"
   },
   {
-    "SYMBOLS": "NESCO"
+    "SYMBOL": "NCLIND"
   },
   {
-    "SYMBOLS": "NESTLEIND"
+    "SYMBOL": "NDGL"
   },
   {
-    "SYMBOLS": "NETWORK18"
+    "SYMBOL": "NDL"
   },
   {
-    "SYMBOLS": "NEULANDLAB"
+    "SYMBOL": "NDRAUTO"
   },
   {
-    "SYMBOLS": "NEWGEN"
+    "SYMBOL": "NDTV"
   },
   {
-    "SYMBOLS": "NEXTMEDIA"
+    "SYMBOL": "NECCLTD"
   },
   {
-    "SYMBOLS": "NFL"
+    "SYMBOL": "NECLIFE"
   },
   {
-    "SYMBOLS": "NH"
+    "SYMBOL": "NELCAST"
   },
   {
-    "SYMBOLS": "NHPC"
+    "SYMBOL": "NELCO"
   },
   {
-    "SYMBOLS": "NIACL"
+    "SYMBOL": "NEOGEN"
   },
   {
-    "SYMBOLS": "NIBL"
+    "SYMBOL": "NESCO"
   },
   {
-    "SYMBOLS": "NIITLTD"
+    "SYMBOL": "NESTLEIND"
   },
   {
-    "SYMBOLS": "NILAINFRA"
+    "SYMBOL": "NETWORK18"
   },
   {
-    "SYMBOLS": "NILASPACES"
+    "SYMBOL": "NEULANDLAB"
   },
   {
-    "SYMBOLS": "NILKAMAL"
+    "SYMBOL": "NEWGEN"
   },
   {
-    "SYMBOLS": "NIPPOBATRY"
+    "SYMBOL": "NEXTMEDIA"
   },
   {
-    "SYMBOLS": "NIRAJ"
+    "SYMBOL": "NFL"
   },
   {
-    "SYMBOLS": "NIRAJISPAT"
+    "SYMBOL": "NH"
   },
   {
-    "SYMBOLS": "NITCO"
+    "SYMBOL": "NHPC"
   },
   {
-    "SYMBOLS": "NITINFIRE"
+    "SYMBOL": "NIACL"
   },
   {
-    "SYMBOLS": "NITINSPIN"
+    "SYMBOL": "NIBL"
   },
   {
-    "SYMBOLS": "NKIND"
+    "SYMBOL": "NIITLTD"
   },
   {
-    "SYMBOLS": "NLCINDIA"
+    "SYMBOL": "NILAINFRA"
   },
   {
-    "SYMBOLS": "NMDC"
+    "SYMBOL": "NILASPACES"
   },
   {
-    "SYMBOLS": "NOCIL"
+    "SYMBOL": "NILKAMAL"
   },
   {
-    "SYMBOLS": "NOIDATOLL"
+    "SYMBOL": "NIPPOBATRY"
   },
   {
-    "SYMBOLS": "NORBTEAEXP"
+    "SYMBOL": "NIRAJ"
   },
   {
-    "SYMBOLS": "NOVARTIND"
+    "SYMBOL": "NIRAJISPAT"
   },
   {
-    "SYMBOLS": "NRAIL"
+    "SYMBOL": "NITCO"
   },
   {
-    "SYMBOLS": "NRBBEARING"
+    "SYMBOL": "NITINFIRE"
   },
   {
-    "SYMBOLS": "NSIL"
+    "SYMBOL": "NITINSPIN"
   },
   {
-    "SYMBOLS": "NTL"
+    "SYMBOL": "NKIND"
   },
   {
-    "SYMBOLS": "NTPC"
+    "SYMBOL": "NLCINDIA"
   },
   {
-    "SYMBOLS": "NUCLEUS"
+    "SYMBOL": "NMDC"
   },
   {
-    "SYMBOLS": "NXTDIGITAL"
+    "SYMBOL": "NOCIL"
   },
   {
-    "SYMBOLS": "OAL"
+    "SYMBOL": "NOIDATOLL"
   },
   {
-    "SYMBOLS": "OBEROIRLTY"
+    "SYMBOL": "NORBTEAEXP"
   },
   {
-    "SYMBOLS": "OCCL"
+    "SYMBOL": "NOVARTIND"
   },
   {
-    "SYMBOLS": "OFSS"
+    "SYMBOL": "NRAIL"
   },
   {
-    "SYMBOLS": "OIL"
+    "SYMBOL": "NRBBEARING"
   },
   {
-    "SYMBOLS": "OILCOUNTUB"
+    "SYMBOL": "NSIL"
   },
   {
-    "SYMBOLS": "OISL"
+    "SYMBOL": "NTL"
   },
   {
-    "SYMBOLS": "OLECTRA"
+    "SYMBOL": "NTPC"
   },
   {
-    "SYMBOLS": "OMAXAUTO"
+    "SYMBOL": "NUCLEUS"
   },
   {
-    "SYMBOLS": "OMAXE"
+    "SYMBOL": "NXTDIGITAL"
   },
   {
-    "SYMBOLS": "OMKARCHEM"
+    "SYMBOL": "OAL"
   },
   {
-    "SYMBOLS": "OMMETALS"
+    "SYMBOL": "OBEROIRLTY"
   },
   {
-    "SYMBOLS": "ONELIFECAP"
+    "SYMBOL": "OCCL"
   },
   {
-    "SYMBOLS": "ONEPOINT"
+    "SYMBOL": "OFSS"
   },
   {
-    "SYMBOLS": "ONGC"
+    "SYMBOL": "OIL"
   },
   {
-    "SYMBOLS": "ONMOBILE"
+    "SYMBOL": "OILCOUNTUB"
   },
   {
-    "SYMBOLS": "ONWARDTEC"
+    "SYMBOL": "OISL"
   },
   {
-    "SYMBOLS": "OPTIEMUS"
+    "SYMBOL": "OISL"
   },
   {
-    "SYMBOLS": "OPTOCIRCUI"
+    "SYMBOL": "OLECTRA"
   },
   {
-    "SYMBOLS": "ORBTEXP"
+    "SYMBOL": "OMAXAUTO"
   },
   {
-    "SYMBOLS": "ORICONENT"
+    "SYMBOL": "OMAXE"
   },
   {
-    "SYMBOLS": "ORIENTABRA"
+    "SYMBOL": "OMMETALS"
   },
   {
-    "SYMBOLS": "ORIENTALTL"
+    "SYMBOL": "ONELIFECAP"
   },
   {
-    "SYMBOLS": "ORIENTBELL"
+    "SYMBOL": "ONEPOINT"
   },
   {
-    "SYMBOLS": "ORIENTCEM"
+    "SYMBOL": "ONGC"
   },
   {
-    "SYMBOLS": "ORIENTELEC"
+    "SYMBOL": "ONMOBILE"
   },
   {
-    "SYMBOLS": "ORIENTHOT"
+    "SYMBOL": "ONWARDTEC"
   },
   {
-    "SYMBOLS": "ORIENTLTD"
+    "SYMBOL": "OPTIEMUS"
   },
   {
-    "SYMBOLS": "ORIENTPPR"
+    "SYMBOL": "OPTOCIRCUI"
   },
   {
-    "SYMBOLS": "ORIENTREF"
+    "SYMBOL": "ORBTEXP"
   },
   {
-    "SYMBOLS": "ORISSAMINE"
+    "SYMBOL": "ORCHPHARMA"
   },
   {
-    "SYMBOLS": "ORTEL"
+    "SYMBOL": "ORICONENT"
   },
   {
-    "SYMBOLS": "ORTINLABSS"
+    "SYMBOL": "ORIENTABRA"
   },
   {
-    "SYMBOLS": "OSWALAGRO"
+    "SYMBOL": "ORIENTALTL"
   },
   {
-    "SYMBOLS": "PAEL"
+    "SYMBOL": "ORIENTBELL"
   },
   {
-    "SYMBOLS": "PAGEIND"
+    "SYMBOL": "ORIENTCEM"
   },
   {
-    "SYMBOLS": "PAISALO"
+    "SYMBOL": "ORIENTELEC"
   },
   {
-    "SYMBOLS": "PALASHSECU"
+    "SYMBOL": "ORIENTHOT"
   },
   {
-    "SYMBOLS": "PALREDTEC"
+    "SYMBOL": "ORIENTLTD"
   },
   {
-    "SYMBOLS": "PANACEABIO"
+    "SYMBOL": "ORIENTPPR"
   },
   {
-    "SYMBOLS": "PANACHE"
+    "SYMBOL": "ORIENTREF"
   },
   {
-    "SYMBOLS": "PANAMAPET"
+    "SYMBOL": "ORISSAMINE"
   },
   {
-    "SYMBOLS": "PAPERPROD"
+    "SYMBOL": "ORTEL"
   },
   {
-    "SYMBOLS": "PARABDRUGS"
+    "SYMBOL": "ORTINLABSS"
   },
   {
-    "SYMBOLS": "PARACABLES"
+    "SYMBOL": "OSWALAGRO"
   },
   {
-    "SYMBOLS": "PARAGMILK"
+    "SYMBOL": "PAEL"
   },
   {
-    "SYMBOLS": "PARSVNATH"
+    "SYMBOL": "PAGEIND"
   },
   {
-    "SYMBOLS": "PATELENG"
+    "SYMBOL": "PAISALO"
   },
   {
-    "SYMBOLS": "PATINTLOG"
+    "SYMBOL": "PALASHSECU"
   },
   {
-    "SYMBOLS": "PATSPINLTD"
+    "SYMBOL": "PALREDTEC"
   },
   {
-    "SYMBOLS": "PCJEWELLER"
+    "SYMBOL": "PANACEABIO"
   },
   {
-    "SYMBOLS": "PDMJEPAPER"
+    "SYMBOL": "PANACHE"
   },
   {
-    "SYMBOLS": "PDSMFL"
+    "SYMBOL": "PANAMAPET"
   },
   {
-    "SYMBOLS": "PEARLPOLY"
+    "SYMBOL": "PARABDRUGS"
   },
   {
-    "SYMBOLS": "PEL"
+    "SYMBOL": "PARACABLES"
   },
   {
-    "SYMBOLS": "PENIND"
+    "SYMBOL": "PARAGMILK"
   },
   {
-    "SYMBOLS": "PENINLAND"
+    "SYMBOL": "PARSVNATH"
   },
   {
-    "SYMBOLS": "PERSISTENT"
+    "SYMBOL": "PATELENG"
   },
   {
-    "SYMBOLS": "PETRONET"
+    "SYMBOL": "PATINTLOG"
   },
   {
-    "SYMBOLS": "PFC"
+    "SYMBOL": "PATSPINLTD"
   },
   {
-    "SYMBOLS": "PFIZER"
+    "SYMBOL": "PCJEWELLER"
   },
   {
-    "SYMBOLS": "PFOCUS"
+    "SYMBOL": "PDMJEPAPER"
   },
   {
-    "SYMBOLS": "PFS"
+    "SYMBOL": "PDSMFL"
   },
   {
-    "SYMBOLS": "PGEL"
+    "SYMBOL": "PEARLPOLY"
   },
   {
-    "SYMBOLS": "PGHH"
+    "SYMBOL": "PEL"
   },
   {
-    "SYMBOLS": "PGHL"
+    "SYMBOL": "PENIND"
   },
   {
-    "SYMBOLS": "PGIL"
+    "SYMBOL": "PENINLAND"
   },
   {
-    "SYMBOLS": "PHILIPCARB"
+    "SYMBOL": "PERSISTENT"
   },
   {
-    "SYMBOLS": "PHOENIXLTD"
+    "SYMBOL": "PETRONET"
   },
   {
-    "SYMBOLS": "PIDILITIND"
+    "SYMBOL": "PFC"
   },
   {
-    "SYMBOLS": "PIIND"
+    "SYMBOL": "PFIZER"
   },
   {
-    "SYMBOLS": "PILANIINVS"
+    "SYMBOL": "PFOCUS"
   },
   {
-    "SYMBOLS": "PILITA"
+    "SYMBOL": "PFS"
   },
   {
-    "SYMBOLS": "PIONDIST"
+    "SYMBOL": "PGEL"
   },
   {
-    "SYMBOLS": "PIONEEREMB"
+    "SYMBOL": "PGHH"
   },
   {
-    "SYMBOLS": "PITTIENG"
+    "SYMBOL": "PGHL"
   },
   {
-    "SYMBOLS": "PKTEA"
+    "SYMBOL": "PGIL"
   },
   {
-    "SYMBOLS": "PLASTIBLEN"
+    "SYMBOL": "PHILIPCARB"
   },
   {
-    "SYMBOLS": "PNB"
+    "SYMBOL": "PHOENIXLTD"
   },
   {
-    "SYMBOLS": "PNBGILTS"
+    "SYMBOL": "PIDILITIND"
   },
   {
-    "SYMBOLS": "PNBHOUSING"
+    "SYMBOL": "PIIND"
   },
   {
-    "SYMBOLS": "PNC"
+    "SYMBOL": "PILANIINVS"
   },
   {
-    "SYMBOLS": "PNCINFRA"
+    "SYMBOL": "PILITA"
   },
   {
-    "SYMBOLS": "PODDARHOUS"
+    "SYMBOL": "PIONDIST"
   },
   {
-    "SYMBOLS": "PODDARMENT"
+    "SYMBOL": "PIONEEREMB"
   },
   {
-    "SYMBOLS": "POKARNA"
+    "SYMBOL": "PITTIENG"
   },
   {
-    "SYMBOLS": "POLYCAB"
+    "SYMBOL": "PKTEA"
   },
   {
-    "SYMBOLS": "POLYMED"
+    "SYMBOL": "PLASTIBLEN"
   },
   {
-    "SYMBOLS": "POLYPLEX"
+    "SYMBOL": "PNB"
   },
   {
-    "SYMBOLS": "PONNIERODE"
+    "SYMBOL": "PNBGILTS"
   },
   {
-    "SYMBOLS": "POWERGRID"
+    "SYMBOL": "PNBHOUSING"
   },
   {
-    "SYMBOLS": "POWERINDIA"
+    "SYMBOL": "PNC"
   },
   {
-    "SYMBOLS": "POWERMECH"
+    "SYMBOL": "PNCINFRA"
   },
   {
-    "SYMBOLS": "PPAP"
+    "SYMBOL": "PODDARHOUS"
   },
   {
-    "SYMBOLS": "PPL"
+    "SYMBOL": "PODDARMENT"
   },
   {
-    "SYMBOLS": "PRABHAT"
+    "SYMBOL": "POKARNA"
   },
   {
-    "SYMBOLS": "PRADIP"
+    "SYMBOL": "POLYCAB"
   },
   {
-    "SYMBOLS": "PRAENG"
+    "SYMBOL": "POLYMED"
   },
   {
-    "SYMBOLS": "PRAJIND"
+    "SYMBOL": "POLYPLEX"
   },
   {
-    "SYMBOLS": "PRAKASH"
+    "SYMBOL": "PONNIERODE"
   },
   {
-    "SYMBOLS": "PRAKASHSTL"
+    "SYMBOL": "POWERGRID"
   },
   {
-    "SYMBOLS": "PRAXIS"
+    "SYMBOL": "POWERINDIA"
   },
   {
-    "SYMBOLS": "PRECAM"
+    "SYMBOL": "POWERMECH"
   },
   {
-    "SYMBOLS": "PRECOT"
+    "SYMBOL": "PPAP"
   },
   {
-    "SYMBOLS": "PRECWIRE"
+    "SYMBOL": "PPL"
   },
   {
-    "SYMBOLS": "PREMEXPLN"
+    "SYMBOL": "PRABHAT"
   },
   {
-    "SYMBOLS": "PREMIER"
+    "SYMBOL": "PRADIP"
   },
   {
-    "SYMBOLS": "PREMIERPOL"
+    "SYMBOL": "PRAENG"
   },
   {
-    "SYMBOLS": "PRESSMN"
+    "SYMBOL": "PRAJIND"
   },
   {
-    "SYMBOLS": "PRESTIGE"
+    "SYMBOL": "PRAKASH"
   },
   {
-    "SYMBOLS": "PRICOLLTD"
+    "SYMBOL": "PRAKASHSTL"
   },
   {
-    "SYMBOLS": "PRIMESECU"
+    "SYMBOL": "PRAXIS"
   },
   {
-    "SYMBOLS": "PRINCEPIPE"
+    "SYMBOL": "PRECAM"
   },
   {
-    "SYMBOLS": "PROSEED"
+    "SYMBOL": "PRECOT"
   },
   {
-    "SYMBOLS": "PROZONINTU"
+    "SYMBOL": "PRECWIRE"
   },
   {
-    "SYMBOLS": "PRSMJOHNSN"
+    "SYMBOL": "PREMEXPLN"
   },
   {
-    "SYMBOLS": "PSB"
+    "SYMBOL": "PREMIER"
   },
   {
-    "SYMBOLS": "PSL"
+    "SYMBOL": "PREMIERPOL"
   },
   {
-    "SYMBOLS": "PSPPROJECT"
+    "SYMBOL": "PRESSMN"
   },
   {
-    "SYMBOLS": "PTC"
+    "SYMBOL": "PRESTIGE"
   },
   {
-    "SYMBOLS": "PTL"
+    "SYMBOL": "PRICOLLTD"
   },
   {
-    "SYMBOLS": "PUNJABCHEM"
+    "SYMBOL": "PRIMESECU"
   },
   {
-    "SYMBOLS": "PUNJLLOYD"
+    "SYMBOL": "PRINCEPIPE"
   },
   {
-    "SYMBOLS": "PURVA"
+    "SYMBOL": "PRIVISCL"
   },
   {
-    "SYMBOLS": "PVR"
+    "SYMBOL": "PROSEED"
   },
   {
-    "SYMBOLS": "QUESS"
+    "SYMBOL": "PROZONINTU"
   },
   {
-    "SYMBOLS": "QUICKHEAL"
+    "SYMBOL": "PRSMJOHNSN"
   },
   {
-    "SYMBOLS": "RADAAN"
+    "SYMBOL": "PSB"
   },
   {
-    "SYMBOLS": "RADICO"
+    "SYMBOL": "PSPPROJECT"
   },
   {
-    "SYMBOLS": "RADIOCITY"
+    "SYMBOL": "PTC"
   },
   {
-    "SYMBOLS": "RAIN"
+    "SYMBOL": "PTL"
   },
   {
-    "SYMBOLS": "RAJESHEXPO"
+    "SYMBOL": "PUNJABCHEM"
   },
   {
-    "SYMBOLS": "RAJRATAN"
+    "SYMBOL": "PUNJLLOYD"
   },
   {
-    "SYMBOLS": "RAJRAYON"
+    "SYMBOL": "PURVA"
   },
   {
-    "SYMBOLS": "RAJSREESUG"
+    "SYMBOL": "PVR"
   },
   {
-    "SYMBOLS": "RAJTV"
+    "SYMBOL": "QUESS"
   },
   {
-    "SYMBOLS": "RALLIS"
+    "SYMBOL": "QUICKHEAL"
   },
   {
-    "SYMBOLS": "RAMANEWS"
+    "SYMBOL": "RADAAN"
   },
   {
-    "SYMBOLS": "RAMASTEEL"
+    "SYMBOL": "RADICO"
   },
   {
-    "SYMBOLS": "RAMCOCEM"
+    "SYMBOL": "RADIOCITY"
   },
   {
-    "SYMBOLS": "RAMCOIND"
+    "SYMBOL": "RAIN"
   },
   {
-    "SYMBOLS": "RAMCOSYS"
+    "SYMBOL": "RAJESHEXPO"
   },
   {
-    "SYMBOLS": "RAMKY"
+    "SYMBOL": "RAJRATAN"
   },
   {
-    "SYMBOLS": "RAMSARUP"
+    "SYMBOL": "RAJRAYON"
   },
   {
-    "SYMBOLS": "RANASUG"
+    "SYMBOL": "RAJSREESUG"
   },
   {
-    "SYMBOLS": "RANEENGINE"
+    "SYMBOL": "RAJTV"
   },
   {
-    "SYMBOLS": "RANEHOLDIN"
+    "SYMBOL": "RALLIS"
   },
   {
-    "SYMBOLS": "RATNAMANI"
+    "SYMBOL": "RAMANEWS"
   },
   {
-    "SYMBOLS": "RAYMOND"
+    "SYMBOL": "RAMASTEEL"
   },
   {
-    "SYMBOLS": "RBL"
+    "SYMBOL": "RAMCOCEM"
   },
   {
-    "SYMBOLS": "RBLBANK"
+    "SYMBOL": "RAMCOIND"
   },
   {
-    "SYMBOLS": "RCF"
+    "SYMBOL": "RAMCOSYS"
   },
   {
-    "SYMBOLS": "RCOM"
+    "SYMBOL": "RAMKY"
   },
   {
-    "SYMBOLS": "RECLTD"
+    "SYMBOL": "RAMSARUP"
   },
   {
-    "SYMBOLS": "REDINGTON"
+    "SYMBOL": "RANASUG"
   },
   {
-    "SYMBOLS": "REFEX"
+    "SYMBOL": "RANEENGINE"
   },
   {
-    "SYMBOLS": "RELAXO"
+    "SYMBOL": "RANEHOLDIN"
   },
   {
-    "SYMBOLS": "RELCAPITAL"
+    "SYMBOL": "RATNAMANI"
   },
   {
-    "SYMBOLS": "RELIANCE"
+    "SYMBOL": "RAYMOND"
   },
   {
-    "SYMBOLS": "RELIGARE"
+    "SYMBOL": "RBL"
   },
   {
-    "SYMBOLS": "RELINFRA"
+    "SYMBOL": "RBLBANK"
   },
   {
-    "SYMBOLS": "REMSONSIND"
+    "SYMBOL": "RCF"
   },
   {
-    "SYMBOLS": "RENUKA"
+    "SYMBOL": "RCOM"
   },
   {
-    "SYMBOLS": "REPCOHOME"
+    "SYMBOL": "RECLTD"
   },
   {
-    "SYMBOLS": "REPRO"
+    "SYMBOL": "REDINGTON"
   },
   {
-    "SYMBOLS": "RESPONIND"
+    "SYMBOL": "REFEX"
   },
   {
-    "SYMBOLS": "REVATHI"
+    "SYMBOL": "RELAXO"
   },
   {
-    "SYMBOLS": "RGL"
+    "SYMBOL": "RELCAPITAL"
   },
   {
-    "SYMBOLS": "RHFL"
+    "SYMBOL": "RELIANCE"
   },
   {
-    "SYMBOLS": "RICOAUTO"
+    "SYMBOL": "RELIGARE"
   },
   {
-    "SYMBOLS": "RIIL"
+    "SYMBOL": "RELINFRA"
   },
   {
-    "SYMBOLS": "RITES"
+    "SYMBOL": "REMSONSIND"
   },
   {
-    "SYMBOLS": "RKDL"
+    "SYMBOL": "RENUKA"
   },
   {
-    "SYMBOLS": "RKFORGE"
+    "SYMBOL": "REPCOHOME"
   },
   {
-    "SYMBOLS": "RMCL"
+    "SYMBOL": "REPL"
   },
   {
-    "SYMBOLS": "RML"
+    "SYMBOL": "REPRO"
   },
   {
-    "SYMBOLS": "RNAVAL"
+    "SYMBOL": "RESPONIND"
   },
   {
-    "SYMBOLS": "ROHITFERRO"
+    "SYMBOL": "REVATHI"
   },
   {
-    "SYMBOLS": "ROHLTD"
+    "SYMBOL": "RGL"
   },
   {
-    "SYMBOLS": "ROLLT"
+    "SYMBOL": "RHFL"
   },
   {
-    "SYMBOLS": "ROLTA"
+    "SYMBOL": "RICOAUTO"
   },
   {
-    "SYMBOLS": "ROSSARI"
+    "SYMBOL": "RIIL"
   },
   {
-    "SYMBOLS": "ROSSELLIND"
+    "SYMBOL": "RITES"
   },
   {
-    "SYMBOLS": "ROUTE"
+    "SYMBOL": "RKDL"
   },
   {
-    "SYMBOLS": "RPGLIFE"
+    "SYMBOL": "RKFORGE"
   },
   {
-    "SYMBOLS": "RPOWER"
+    "SYMBOL": "RMCL"
   },
   {
-    "SYMBOLS": "RPPINFRA"
+    "SYMBOL": "RML"
   },
   {
-    "SYMBOLS": "RSSOFTWARE"
+    "SYMBOL": "RNAVAL"
   },
   {
-    "SYMBOLS": "RSWM"
+    "SYMBOL": "ROHITFERRO"
   },
   {
-    "SYMBOLS": "RSYSTEMS"
+    "SYMBOL": "ROHLTD"
   },
   {
-    "SYMBOLS": "RTNINFRA"
+    "SYMBOL": "ROLLT"
   },
   {
-    "SYMBOLS": "RTNPOWER"
+    "SYMBOL": "ROLTA"
   },
   {
-    "SYMBOLS": "RUBYMILLS"
+    "SYMBOL": "ROML"
   },
   {
-    "SYMBOLS": "RUCHI"
+    "SYMBOL": "ROSSARI"
   },
   {
-    "SYMBOLS": "RUCHINFRA"
+    "SYMBOL": "ROSSELLIND"
   },
   {
-    "SYMBOLS": "RUCHIRA"
+    "SYMBOL": "ROUTE"
   },
   {
-    "SYMBOLS": "RUPA"
+    "SYMBOL": "RPGLIFE"
   },
   {
-    "SYMBOLS": "RUSHIL"
+    "SYMBOL": "RPOWER"
   },
   {
-    "SYMBOLS": "RVNL"
+    "SYMBOL": "RPPINFRA"
   },
   {
-    "SYMBOLS": "S&SPOWER"
+    "SYMBOL": "RSSOFTWARE"
   },
   {
-    "SYMBOLS": "SABEVENTS"
+    "SYMBOL": "RSWM"
   },
   {
-    "SYMBOLS": "SABTN"
+    "SYMBOL": "RSYSTEMS"
   },
   {
-    "SYMBOLS": "SADBHAV"
+    "SYMBOL": "RTNINFRA"
   },
   {
-    "SYMBOLS": "SADBHIN"
+    "SYMBOL": "RTNPOWER"
   },
   {
-    "SYMBOLS": "SAFARI"
+    "SYMBOL": "RUBYMILLS"
   },
   {
-    "SYMBOLS": "SAGARDEEP"
+    "SYMBOL": "RUCHI"
   },
   {
-    "SYMBOLS": "SAGCEM"
+    "SYMBOL": "RUCHINFRA"
   },
   {
-    "SYMBOLS": "SAIL"
+    "SYMBOL": "RUCHIRA"
   },
   {
-    "SYMBOLS": "SAKAR"
+    "SYMBOL": "RUPA"
   },
   {
-    "SYMBOLS": "SAKHTISUG"
+    "SYMBOL": "RUSHIL"
   },
   {
-    "SYMBOLS": "SAKSOFT"
+    "SYMBOL": "RVNL"
   },
   {
-    "SYMBOLS": "SAKUMA"
+    "SYMBOL": "S&SPOWER"
   },
   {
-    "SYMBOLS": "SALASAR"
+    "SYMBOL": "SABEVENTS"
   },
   {
-    "SYMBOLS": "SALONA"
+    "SYMBOL": "SABTN"
   },
   {
-    "SYMBOLS": "SALSTEEL"
+    "SYMBOL": "SADBHAV"
   },
   {
-    "SYMBOLS": "SALZERELEC"
+    "SYMBOL": "SADBHIN"
   },
   {
-    "SYMBOLS": "SAMBHAAV"
+    "SYMBOL": "SAFARI"
   },
   {
-    "SYMBOLS": "SANCO"
+    "SYMBOL": "SAGARDEEP"
   },
   {
-    "SYMBOLS": "SANDESH"
+    "SYMBOL": "SAGCEM"
   },
   {
-    "SYMBOLS": "SANDHAR"
+    "SYMBOL": "SAIL"
   },
   {
-    "SYMBOLS": "SANGAMIND"
+    "SYMBOL": "SAKAR"
   },
   {
-    "SYMBOLS": "SANGHIIND"
+    "SYMBOL": "SAKHTISUG"
   },
   {
-    "SYMBOLS": "SANGHVIFOR"
+    "SYMBOL": "SAKSOFT"
   },
   {
-    "SYMBOLS": "SANGHVIMOV"
+    "SYMBOL": "SAKUMA"
   },
   {
-    "SYMBOLS": "SANGINITA"
+    "SYMBOL": "SALASAR"
   },
   {
-    "SYMBOLS": "SANOFI"
+    "SYMBOL": "SALONA"
   },
   {
-    "SYMBOLS": "SANWARIA"
+    "SYMBOL": "SALSTEEL"
   },
   {
-    "SYMBOLS": "SARDAEN"
+    "SYMBOL": "SALZERELEC"
   },
   {
-    "SYMBOLS": "SAREGAMA"
+    "SYMBOL": "SAMBHAAV"
   },
   {
-    "SYMBOLS": "SARLAPOLY"
+    "SYMBOL": "SANCO"
   },
   {
-    "SYMBOLS": "SASKEN"
+    "SYMBOL": "SANDESH"
   },
   {
-    "SYMBOLS": "SASTASUNDR"
+    "SYMBOL": "SANDHAR"
   },
   {
-    "SYMBOLS": "SATIA"
+    "SYMBOL": "SANGAMIND"
   },
   {
-    "SYMBOLS": "SATIN"
+    "SYMBOL": "SANGHIIND"
   },
   {
-    "SYMBOLS": "SBICARD"
+    "SYMBOL": "SANGHVIFOR"
   },
   {
-    "SYMBOLS": "SBILIFE"
+    "SYMBOL": "SANGHVIMOV"
   },
   {
-    "SYMBOLS": "SBIN"
+    "SYMBOL": "SANGINITA"
   },
   {
-    "SYMBOLS": "SCAPDVR"
+    "SYMBOL": "SANOFI"
   },
   {
-    "SYMBOLS": "SCHAEFFLER"
+    "SYMBOL": "SANWARIA"
   },
   {
-    "SYMBOLS": "SCHAND"
+    "SYMBOL": "SARDAEN"
   },
   {
-    "SYMBOLS": "SCHNEIDER"
+    "SYMBOL": "SAREGAMA"
   },
   {
-    "SYMBOLS": "SCI"
+    "SYMBOL": "SARLAPOLY"
   },
   {
-    "SYMBOLS": "SDBL"
+    "SYMBOL": "SASKEN"
   },
   {
-    "SYMBOLS": "SEAMECLTD"
+    "SYMBOL": "SASTASUNDR"
   },
   {
-    "SYMBOLS": "SELAN"
+    "SYMBOL": "SATIA"
   },
   {
-    "SYMBOLS": "SELMCL"
+    "SYMBOL": "SATIN"
   },
   {
-    "SYMBOLS": "SEPOWER"
+    "SYMBOL": "SBICARD"
   },
   {
-    "SYMBOLS": "SEQUENT"
+    "SYMBOL": "SBILIFE"
   },
   {
-    "SYMBOLS": "SESHAPAPER"
+    "SYMBOL": "SBIN"
   },
   {
-    "SYMBOLS": "SETCO"
+    "SYMBOL": "SCAPDVR"
   },
   {
-    "SYMBOLS": "SETUINFRA"
+    "SYMBOL": "SCHAEFFLER"
   },
   {
-    "SYMBOLS": "SEYAIND"
+    "SYMBOL": "SCHAND"
   },
   {
-    "SYMBOLS": "SEZAL"
+    "SYMBOL": "SCHNEIDER"
   },
   {
-    "SYMBOLS": "SFL"
+    "SYMBOL": "SCI"
   },
   {
-    "SYMBOLS": "SGL"
+    "SYMBOL": "SDBL"
   },
   {
-    "SYMBOLS": "SHAHALLOYS"
+    "SYMBOL": "SEAMECLTD"
   },
   {
-    "SYMBOLS": "SHAKTIPUMP"
+    "SYMBOL": "SELAN"
   },
   {
-    "SYMBOLS": "SHALBY"
+    "SYMBOL": "SELMCL"
   },
   {
-    "SYMBOLS": "SHALPAINTS"
+    "SYMBOL": "SEPOWER"
   },
   {
-    "SYMBOLS": "SHANKARA"
+    "SYMBOL": "SEQUENT"
   },
   {
-    "SYMBOLS": "SHANTIGEAR"
+    "SYMBOL": "SESHAPAPER"
   },
   {
-    "SYMBOLS": "SHARDACROP"
+    "SYMBOL": "SETCO"
   },
   {
-    "SYMBOLS": "SHARDAMOTR"
+    "SYMBOL": "SETUINFRA"
   },
   {
-    "SYMBOLS": "SHAREINDIA"
+    "SYMBOL": "SEYAIND"
   },
   {
-    "SYMBOLS": "SHEMAROO"
+    "SYMBOL": "SEZAL"
   },
   {
-    "SYMBOLS": "SHIL"
+    "SYMBOL": "SFL"
   },
   {
-    "SYMBOLS": "SHILPAMED"
+    "SYMBOL": "SGL"
   },
   {
-    "SYMBOLS": "SHIRPUR-G"
+    "SYMBOL": "SHAHALLOYS"
   },
   {
-    "SYMBOLS": "SHIVAMAUTO"
+    "SYMBOL": "SHAKTIPUMP"
   },
   {
-    "SYMBOLS": "SHIVAMILLS"
+    "SYMBOL": "SHALBY"
   },
   {
-    "SYMBOLS": "SHIVATEX"
+    "SYMBOL": "SHALPAINTS"
   },
   {
-    "SYMBOLS": "SHK"
+    "SYMBOL": "SHANKARA"
   },
   {
-    "SYMBOLS": "SHOPERSTOP"
+    "SYMBOL": "SHANTIGEAR"
   },
   {
-    "SYMBOLS": "SHREDIGCEM"
+    "SYMBOL": "SHARDACROP"
   },
   {
-    "SYMBOLS": "SHREECEM"
+    "SYMBOL": "SHARDAMOTR"
   },
   {
-    "SYMBOLS": "SHREEPUSHK"
+    "SYMBOL": "SHAREINDIA"
   },
   {
-    "SYMBOLS": "SHREERAMA"
+    "SYMBOL": "SHEMAROO"
   },
   {
-    "SYMBOLS": "SHRENIK"
+    "SYMBOL": "SHIL"
   },
   {
-    "SYMBOLS": "SHREYANIND"
+    "SYMBOL": "SHILPAMED"
   },
   {
-    "SYMBOLS": "SHREYAS"
+    "SYMBOL": "SHIRPUR-G"
   },
   {
-    "SYMBOLS": "SHRIPISTON"
+    "SYMBOL": "SHIVAMAUTO"
   },
   {
-    "SYMBOLS": "SHRIRAMCIT"
+    "SYMBOL": "SHIVAMILLS"
   },
   {
-    "SYMBOLS": "SHRIRAMEPC"
+    "SYMBOL": "SHIVATEX"
   },
   {
-    "SYMBOLS": "SHYAMCENT"
+    "SYMBOL": "SHK"
   },
   {
-    "SYMBOLS": "SHYAMTEL"
+    "SYMBOL": "SHOPERSTOP"
   },
   {
-    "SYMBOLS": "SICAGEN"
+    "SYMBOL": "SHRADHA"
   },
   {
-    "SYMBOLS": "SICAL"
+    "SYMBOL": "SHREDIGCEM"
   },
   {
-    "SYMBOLS": "SIEMENS"
+    "SYMBOL": "SHREECEM"
   },
   {
-    "SYMBOLS": "SIGIND"
+    "SYMBOL": "SHREEPUSHK"
   },
   {
-    "SYMBOLS": "SIL"
+    "SYMBOL": "SHREERAMA"
   },
   {
-    "SYMBOLS": "SILINV"
+    "SYMBOL": "SHRENIK"
   },
   {
-    "SYMBOLS": "SILLYMONKS"
+    "SYMBOL": "SHREYANIND"
   },
   {
-    "SYMBOLS": "SIMBHALS"
+    "SYMBOL": "SHREYAS"
   },
   {
-    "SYMBOLS": "SIMPLEXINF"
+    "SYMBOL": "SHRIPISTON"
   },
   {
-    "SYMBOLS": "SINTERCOM"
+    "SYMBOL": "SHRIRAMCIT"
   },
   {
-    "SYMBOLS": "SINTEX"
+    "SYMBOL": "SHRIRAMEPC"
   },
   {
-    "SYMBOLS": "SIRCA"
+    "SYMBOL": "SHYAMCENT"
   },
   {
-    "SYMBOLS": "SIS"
+    "SYMBOL": "SHYAMTEL"
   },
   {
-    "SYMBOLS": "SITINET"
+    "SYMBOL": "SICAGEN"
   },
   {
-    "SYMBOLS": "SIYSIL"
+    "SYMBOL": "SICAL"
   },
   {
-    "SYMBOLS": "SJVN"
+    "SYMBOL": "SIEMENS"
   },
   {
-    "SYMBOLS": "SKFINDIA"
+    "SYMBOL": "SIGIND"
   },
   {
-    "SYMBOLS": "SKIL"
+    "SYMBOL": "SIL"
   },
   {
-    "SYMBOLS": "SKIPPER"
+    "SYMBOL": "SILINV"
   },
   {
-    "SYMBOLS": "SKMEGGPROD"
+    "SYMBOL": "SILLYMONKS"
   },
   {
-    "SYMBOLS": "SMARTLINK"
+    "SYMBOL": "SIMBHALS"
   },
   {
-    "SYMBOLS": "SMLISUZU"
+    "SYMBOL": "SIMPLEXINF"
   },
   {
-    "SYMBOLS": "SMPL"
+    "SYMBOL": "SINTERCOM"
   },
   {
-    "SYMBOLS": "SMSLIFE"
+    "SYMBOL": "SINTEX"
   },
   {
-    "SYMBOLS": "SMSPHARMA"
+    "SYMBOL": "SIRCA"
   },
   {
-    "SYMBOLS": "SNOWMAN"
+    "SYMBOL": "SIS"
   },
   {
-    "SYMBOLS": "SOBHA"
+    "SYMBOL": "SITINET"
   },
   {
-    "SYMBOLS": "SOLARA"
+    "SYMBOL": "SIYSIL"
   },
   {
-    "SYMBOLS": "SOLARINDS"
+    "SYMBOL": "SJVN"
   },
   {
-    "SYMBOLS": "SOMANYCERA"
+    "SYMBOL": "SKFINDIA"
   },
   {
-    "SYMBOLS": "SOMATEX"
+    "SYMBOL": "SKIL"
   },
   {
-    "SYMBOLS": "SOMICONVEY"
+    "SYMBOL": "SKIPPER"
   },
   {
-    "SYMBOLS": "SONATSOFTW"
+    "SYMBOL": "SKMEGGPROD"
   },
   {
-    "SYMBOLS": "SORILINFRA"
+    "SYMBOL": "SMARTLINK"
   },
   {
-    "SYMBOLS": "SOTL"
+    "SYMBOL": "SMLISUZU"
   },
   {
-    "SYMBOLS": "SOUTHBANK"
+    "SYMBOL": "SMPL"
   },
   {
-    "SYMBOLS": "SOUTHWEST"
+    "SYMBOL": "SMSLIFE"
   },
   {
-    "SYMBOLS": "SPAL"
+    "SYMBOL": "SMSPHARMA"
   },
   {
-    "SYMBOLS": "SPANDANA"
+    "SYMBOL": "SNOWMAN"
   },
   {
-    "SYMBOLS": "SPARC"
+    "SYMBOL": "SOBHA"
   },
   {
-    "SYMBOLS": "SPCENET"
+    "SYMBOL": "SOLARA"
   },
   {
-    "SYMBOLS": "SPECIALITY"
+    "SYMBOL": "SOLARINDS"
   },
   {
-    "SYMBOLS": "SPENCERS"
+    "SYMBOL": "SOMANYCERA"
   },
   {
-    "SYMBOLS": "SPENTEX"
+    "SYMBOL": "SOMATEX"
   },
   {
-    "SYMBOLS": "SPIC"
+    "SYMBOL": "SOMICONVEY"
   },
   {
-    "SYMBOLS": "SPICEJET"
+    "SYMBOL": "SONATSOFTW"
   },
   {
-    "SYMBOLS": "SPLIL"
+    "SYMBOL": "SORILINFRA"
   },
   {
-    "SYMBOLS": "SPMLINFRA"
+    "SYMBOL": "SOTL"
   },
   {
-    "SYMBOLS": "SPTL"
+    "SYMBOL": "SOUTHBANK"
   },
   {
-    "SYMBOLS": "SPYL"
+    "SYMBOL": "SOUTHWEST"
   },
   {
-    "SYMBOLS": "SREEL"
+    "SYMBOL": "SPAL"
   },
   {
-    "SYMBOLS": "SREINFRA"
+    "SYMBOL": "SPANDANA"
   },
   {
-    "SYMBOLS": "SRF"
+    "SYMBOL": "SPARC"
   },
   {
-    "SYMBOLS": "SRHHYPOLTD"
+    "SYMBOL": "SPECIALITY"
   },
   {
-    "SYMBOLS": "SRIPIPES"
+    "SYMBOL": "SPENCERS"
   },
   {
-    "SYMBOLS": "SRPL"
+    "SYMBOL": "SPENTEX"
   },
   {
-    "SYMBOLS": "SRTRANSFIN"
+    "SYMBOL": "SPIC"
   },
   {
-    "SYMBOLS": "SSWL"
+    "SYMBOL": "SPICEJET"
   },
   {
-    "SYMBOLS": "STAR"
+    "SYMBOL": "SPLIL"
   },
   {
-    "SYMBOLS": "STARCEMENT"
+    "SYMBOL": "SPMLINFRA"
   },
   {
-    "SYMBOLS": "STARPAPER"
+    "SYMBOL": "SPTL"
   },
   {
-    "SYMBOLS": "STCINDIA"
+    "SYMBOL": "SREEL"
   },
   {
-    "SYMBOLS": "STEELCITY"
+    "SYMBOL": "SREINFRA"
   },
   {
-    "SYMBOLS": "STEELXIND"
+    "SYMBOL": "SRF"
   },
   {
-    "SYMBOLS": "STEL"
+    "SYMBOL": "SRHHYPOLTD"
   },
   {
-    "SYMBOLS": "STERTOOLS"
+    "SYMBOL": "SRIPIPES"
   },
   {
-    "SYMBOLS": "STINDIA"
+    "SYMBOL": "SRPL"
   },
   {
-    "SYMBOLS": "STRTECH"
+    "SYMBOL": "SRTRANSFIN"
   },
   {
-    "SYMBOLS": "SUBCAPCITY"
+    "SYMBOL": "SSWL"
   },
   {
-    "SYMBOLS": "SUBEX"
+    "SYMBOL": "STAR"
   },
   {
-    "SYMBOLS": "SUBROS"
+    "SYMBOL": "STARCEMENT"
   },
   {
-    "SYMBOLS": "SUDARSCHEM"
+    "SYMBOL": "STARPAPER"
   },
   {
-    "SYMBOLS": "SUJANAUNI"
+    "SYMBOL": "STCINDIA"
   },
   {
-    "SYMBOLS": "SUMEETINDS"
+    "SYMBOL": "STEELCITY"
   },
   {
-    "SYMBOLS": "SUMICHEM"
+    "SYMBOL": "STEELXIND"
   },
   {
-    "SYMBOLS": "SUMIT"
+    "SYMBOL": "STEL"
   },
   {
-    "SYMBOLS": "SUMMITSEC"
+    "SYMBOL": "STERTOOLS"
   },
   {
-    "SYMBOLS": "SUNCLAYLTD"
+    "SYMBOL": "STLTECH"
   },
   {
-    "SYMBOLS": "SUNDARAM"
+    "SYMBOL": "SUBCAPCITY"
   },
   {
-    "SYMBOLS": "SUNDARMFIN"
+    "SYMBOL": "SUBEXLTD"
   },
   {
-    "SYMBOLS": "SUNDARMHLD"
+    "SYMBOL": "SUBROS"
   },
   {
-    "SYMBOLS": "SUNDRMBRAK"
+    "SYMBOL": "SUDARSCHEM"
   },
   {
-    "SYMBOLS": "SUNDRMFAST"
+    "SYMBOL": "SUJANAUNI"
   },
   {
-    "SYMBOLS": "SUNFLAG"
+    "SYMBOL": "SUMEETINDS"
   },
   {
-    "SYMBOLS": "SUNPHARMA"
+    "SYMBOL": "SUMICHEM"
   },
   {
-    "SYMBOLS": "SUNTECK"
+    "SYMBOL": "SUMIT"
   },
   {
-    "SYMBOLS": "SUNTV"
+    "SYMBOL": "SUMMITSEC"
   },
   {
-    "SYMBOLS": "SUPERHOUSE"
+    "SYMBOL": "SUNCLAYLTD"
   },
   {
-    "SYMBOLS": "SUPERSPIN"
+    "SYMBOL": "SUNDARAM"
   },
   {
-    "SYMBOLS": "SUPPETRO"
+    "SYMBOL": "SUNDARMFIN"
   },
   {
-    "SYMBOLS": "SUPRAJIT"
+    "SYMBOL": "SUNDARMHLD"
   },
   {
-    "SYMBOLS": "SUPREMEIND"
+    "SYMBOL": "SUNDRMBRAK"
   },
   {
-    "SYMBOLS": "SUPREMEINF"
+    "SYMBOL": "SUNDRMFAST"
   },
   {
-    "SYMBOLS": "SURANASOL"
+    "SYMBOL": "SUNFLAG"
   },
   {
-    "SYMBOLS": "SURANAT&P"
+    "SYMBOL": "SUNPHARMA"
   },
   {
-    "SYMBOLS": "SURYALAXMI"
+    "SYMBOL": "SUNTECK"
   },
   {
-    "SYMBOLS": "SURYAROSNI"
+    "SYMBOL": "SUNTV"
   },
   {
-    "SYMBOLS": "SUTLEJTEX"
+    "SYMBOL": "SUPERHOUSE"
   },
   {
-    "SYMBOLS": "SUVEN"
+    "SYMBOL": "SUPERSPIN"
   },
   {
-    "SYMBOLS": "SUVENPHAR"
+    "SYMBOL": "SUPPETRO"
   },
   {
-    "SYMBOLS": "SUZLON"
+    "SYMBOL": "SUPRAJIT"
   },
   {
-    "SYMBOLS": "SWANENERGY"
+    "SYMBOL": "SUPREMEENG"
   },
   {
-    "SYMBOLS": "SWARAJENG"
+    "SYMBOL": "SUPREMEIND"
   },
   {
-    "SYMBOLS": "SWELECTES"
+    "SYMBOL": "SUPREMEINF"
   },
   {
-    "SYMBOLS": "SWSOLAR"
+    "SYMBOL": "SURANASOL"
   },
   {
-    "SYMBOLS": "SYMPHONY"
+    "SYMBOL": "SURANAT&P"
   },
   {
-    "SYMBOLS": "SYNCOM"
+    "SYMBOL": "SURYALAXMI"
   },
   {
-    "SYMBOLS": "SYNGENE"
+    "SYMBOL": "SURYAROSNI"
   },
   {
-    "SYMBOLS": "TAINWALCHM"
+    "SYMBOL": "SUTLEJTEX"
   },
   {
-    "SYMBOLS": "TAJGVK"
+    "SYMBOL": "SUULD"
   },
   {
-    "SYMBOLS": "TAKE"
+    "SYMBOL": "SUVEN"
   },
   {
-    "SYMBOLS": "TALBROAUTO"
+    "SYMBOL": "SUVENPHAR"
   },
   {
-    "SYMBOLS": "TANLA"
+    "SYMBOL": "SUZLON"
   },
   {
-    "SYMBOLS": "TANTIACONS"
+    "SYMBOL": "SWANENERGY"
   },
   {
-    "SYMBOLS": "TARMAT"
+    "SYMBOL": "SWARAJENG"
   },
   {
-    "SYMBOLS": "TASTYBITE"
+    "SYMBOL": "SWELECTES"
   },
   {
-    "SYMBOLS": "TATACHEM"
+    "SYMBOL": "SWSOLAR"
   },
   {
-    "SYMBOLS": "TATACOFFEE"
+    "SYMBOL": "SYMPHONY"
   },
   {
-    "SYMBOLS": "TATACOMM"
+    "SYMBOL": "SYNCOM"
   },
   {
-    "SYMBOLS": "TATACONSUM"
+    "SYMBOL": "SYNGENE"
   },
   {
-    "SYMBOLS": "TATAELXSI"
+    "SYMBOL": "TAINWALCHM"
   },
   {
-    "SYMBOLS": "TATAINVEST"
+    "SYMBOL": "TAJGVK"
   },
   {
-    "SYMBOLS": "TATAMETALI"
+    "SYMBOL": "TAKE"
   },
   {
-    "SYMBOLS": "TATAMOTORS"
+    "SYMBOL": "TALBROAUTO"
   },
   {
-    "SYMBOLS": "TATAMTRDVR"
+    "SYMBOL": "TANLA"
   },
   {
-    "SYMBOLS": "TATAPOWER"
+    "SYMBOL": "TANTIACONS"
   },
   {
-    "SYMBOLS": "TATASTEEL"
+    "SYMBOL": "TARMAT"
   },
   {
-    "SYMBOLS": "TATASTLBSL"
+    "SYMBOL": "TASTYBITE"
   },
   {
-    "SYMBOLS": "TATASTLLP"
+    "SYMBOL": "TATACHEM"
   },
   {
-    "SYMBOLS": "TBZ"
+    "SYMBOL": "TATACOFFEE"
   },
   {
-    "SYMBOLS": "TCI"
+    "SYMBOL": "TATACOMM"
   },
   {
-    "SYMBOLS": "TCIDEVELOP"
+    "SYMBOL": "TATACONSUM"
   },
   {
-    "SYMBOLS": "TCIEXP"
+    "SYMBOL": "TATAELXSI"
   },
   {
-    "SYMBOLS": "TCIFINANCE"
+    "SYMBOL": "TATAINVEST"
   },
   {
-    "SYMBOLS": "TCNSBRANDS"
+    "SYMBOL": "TATAMETALI"
   },
   {
-    "SYMBOLS": "TCPLPACK"
+    "SYMBOL": "TATAMOTORS"
   },
   {
-    "SYMBOLS": "TCS"
+    "SYMBOL": "TATAMTRDVR"
   },
   {
-    "SYMBOLS": "TDPOWERSYS"
+    "SYMBOL": "TATAPOWER"
   },
   {
-    "SYMBOLS": "TEAMLEASE"
+    "SYMBOL": "TATASTEEL"
   },
   {
-    "SYMBOLS": "TECHIN"
+    "SYMBOL": "TATASTLBSL"
   },
   {
-    "SYMBOLS": "TECHM"
+    "SYMBOL": "TATASTLLP"
   },
   {
-    "SYMBOLS": "TECHNOE"
+    "SYMBOL": "TBZ"
   },
   {
-    "SYMBOLS": "TECHNOFAB"
+    "SYMBOL": "TCI"
   },
   {
-    "SYMBOLS": "TEJASNET"
+    "SYMBOL": "TCIDEVELOP"
   },
   {
-    "SYMBOLS": "TERASOFT"
+    "SYMBOL": "TCIEXP"
   },
   {
-    "SYMBOLS": "TEXINFRA"
+    "SYMBOL": "TCIFINANCE"
   },
   {
-    "SYMBOLS": "TEXMOPIPES"
+    "SYMBOL": "TCNSBRANDS"
   },
   {
-    "SYMBOLS": "TEXRAIL"
+    "SYMBOL": "TCPLPACK"
   },
   {
-    "SYMBOLS": "TFCILTD"
+    "SYMBOL": "TCS"
   },
   {
-    "SYMBOLS": "TFL"
+    "SYMBOL": "TDPOWERSYS"
   },
   {
-    "SYMBOLS": "TGBHOTELS"
+    "SYMBOL": "TEAMLEASE"
   },
   {
-    "SYMBOLS": "THANGAMAYL"
+    "SYMBOL": "TECHIN"
   },
   {
-    "SYMBOLS": "THEINVEST"
+    "SYMBOL": "TECHM"
   },
   {
-    "SYMBOLS": "THEMISMED"
+    "SYMBOL": "TECHNOE"
   },
   {
-    "SYMBOLS": "THERMAX"
+    "SYMBOL": "TECHNOFAB"
   },
   {
-    "SYMBOLS": "THIRUSUGAR"
+    "SYMBOL": "TEJASNET"
   },
   {
-    "SYMBOLS": "THOMASCOOK"
+    "SYMBOL": "TERASOFT"
   },
   {
-    "SYMBOLS": "THOMASCOTT"
+    "SYMBOL": "TEXINFRA"
   },
   {
-    "SYMBOLS": "THYROCARE"
+    "SYMBOL": "TEXMOPIPES"
   },
   {
-    "SYMBOLS": "TI"
+    "SYMBOL": "TEXRAIL"
   },
   {
-    "SYMBOLS": "TIDEWATER"
+    "SYMBOL": "TFCILTD"
   },
   {
-    "SYMBOLS": "TIIL"
+    "SYMBOL": "TFL"
   },
   {
-    "SYMBOLS": "TIINDIA"
+    "SYMBOL": "TGBHOTELS"
   },
   {
-    "SYMBOLS": "TIJARIA"
+    "SYMBOL": "THANGAMAYL"
   },
   {
-    "SYMBOLS": "TIL"
+    "SYMBOL": "THEINVEST"
   },
   {
-    "SYMBOLS": "TIMESGTY"
+    "SYMBOL": "THEMISMED"
   },
   {
-    "SYMBOLS": "TIMETECHNO"
+    "SYMBOL": "THERMAX"
   },
   {
-    "SYMBOLS": "TIMKEN"
+    "SYMBOL": "THIRUSUGAR"
   },
   {
-    "SYMBOLS": "TINPLATE"
+    "SYMBOL": "THOMASCOOK"
   },
   {
-    "SYMBOLS": "TIPSINDLTD"
+    "SYMBOL": "THOMASCOTT"
   },
   {
-    "SYMBOLS": "TIRUMALCHM"
+    "SYMBOL": "THYROCARE"
   },
   {
-    "SYMBOLS": "TIRUPATIFL"
+    "SYMBOL": "TI"
   },
   {
-    "SYMBOLS": "TITAN"
+    "SYMBOL": "TIDEWATER"
   },
   {
-    "SYMBOLS": "TMRVL"
+    "SYMBOL": "TIIL"
   },
   {
-    "SYMBOLS": "TNPETRO"
+    "SYMBOL": "TIINDIA"
   },
   {
-    "SYMBOLS": "TNPL"
+    "SYMBOL": "TIJARIA"
   },
   {
-    "SYMBOLS": "TNTELE"
+    "SYMBOL": "TIL"
   },
   {
-    "SYMBOLS": "TOKYOPLAST"
+    "SYMBOL": "TIMESGTY"
   },
   {
-    "SYMBOLS": "TORNTPHARM"
+    "SYMBOL": "TIMETECHNO"
   },
   {
-    "SYMBOLS": "TORNTPOWER"
+    "SYMBOL": "TIMKEN"
   },
   {
-    "SYMBOLS": "TOTAL"
+    "SYMBOL": "TINPLATE"
   },
   {
-    "SYMBOLS": "TOUCHWOOD"
+    "SYMBOL": "TIPSINDLTD"
   },
   {
-    "SYMBOLS": "TPLPLASTEH"
+    "SYMBOL": "TIRUMALCHM"
   },
   {
-    "SYMBOLS": "TREEHOUSE"
+    "SYMBOL": "TIRUPATIFL"
   },
   {
-    "SYMBOLS": "TREJHARA"
+    "SYMBOL": "TITAN"
   },
   {
-    "SYMBOLS": "TRENT"
+    "SYMBOL": "TMRVL"
   },
   {
-    "SYMBOLS": "TRF"
+    "SYMBOL": "TNPETRO"
   },
   {
-    "SYMBOLS": "TRIDENT"
+    "SYMBOL": "TNPL"
   },
   {
-    "SYMBOLS": "TRIGYN"
+    "SYMBOL": "TNTELE"
   },
   {
-    "SYMBOLS": "TRIL"
+    "SYMBOL": "TOKYOPLAST"
   },
   {
-    "SYMBOLS": "TRITURBINE"
+    "SYMBOL": "TORNTPHARM"
   },
   {
-    "SYMBOLS": "TRIVENI"
+    "SYMBOL": "TORNTPOWER"
   },
   {
-    "SYMBOLS": "TTKHLTCARE"
+    "SYMBOL": "TOTAL"
   },
   {
-    "SYMBOLS": "TTKPRESTIG"
+    "SYMBOL": "TOUCHWOOD"
   },
   {
-    "SYMBOLS": "TTL"
+    "SYMBOL": "TPLPLASTEH"
   },
   {
-    "SYMBOLS": "TTML"
+    "SYMBOL": "TREEHOUSE"
   },
   {
-    "SYMBOLS": "TV18BRDCST"
+    "SYMBOL": "TREJHARA"
   },
   {
-    "SYMBOLS": "TVSELECT"
+    "SYMBOL": "TRENT"
   },
   {
-    "SYMBOLS": "TVSMOTOR"
+    "SYMBOL": "TRF"
   },
   {
-    "SYMBOLS": "TVSSRICHAK"
+    "SYMBOL": "TRIDENT"
   },
   {
-    "SYMBOLS": "TVTODAY"
+    "SYMBOL": "TRIGYN"
   },
   {
-    "SYMBOLS": "TVVISION"
+    "SYMBOL": "TRIL"
   },
   {
-    "SYMBOLS": "TWL"
+    "SYMBOL": "TRITURBINE"
   },
   {
-    "SYMBOLS": "UBL"
+    "SYMBOL": "TRIVENI"
   },
   {
-    "SYMBOLS": "UCALFUEL"
+    "SYMBOL": "TTKHLTCARE"
   },
   {
-    "SYMBOLS": "UCOBANK"
+    "SYMBOL": "TTKPRESTIG"
   },
   {
-    "SYMBOLS": "UFLEX"
+    "SYMBOL": "TTL"
   },
   {
-    "SYMBOLS": "UFO"
+    "SYMBOL": "TTML"
   },
   {
-    "SYMBOLS": "UGARSUGAR"
+    "SYMBOL": "TV18BRDCST"
   },
   {
-    "SYMBOLS": "UJAAS"
+    "SYMBOL": "TVSELECT"
   },
   {
-    "SYMBOLS": "UJJIVAN"
+    "SYMBOL": "TVSMOTOR"
   },
   {
-    "SYMBOLS": "UJJIVANSFB"
+    "SYMBOL": "TVSSRICHAK"
   },
   {
-    "SYMBOLS": "ULTRACEMCO"
+    "SYMBOL": "TVTODAY"
   },
   {
-    "SYMBOLS": "UMANGDAIRY"
+    "SYMBOL": "TVVISION"
   },
   {
-    "SYMBOLS": "UMESLTD"
+    "SYMBOL": "TWL"
   },
   {
-    "SYMBOLS": "UNICHEMLAB"
+    "SYMBOL": "UBL"
   },
   {
-    "SYMBOLS": "UNIDT"
+    "SYMBOL": "UCALFUEL"
   },
   {
-    "SYMBOLS": "UNIENTER"
+    "SYMBOL": "UCOBANK"
   },
   {
-    "SYMBOLS": "UNIONBANK"
+    "SYMBOL": "UFLEX"
   },
   {
-    "SYMBOLS": "UNIPLY"
+    "SYMBOL": "UFO"
   },
   {
-    "SYMBOLS": "UNITECH"
+    "SYMBOL": "UGARSUGAR"
   },
   {
-    "SYMBOLS": "UNITEDTEA"
+    "SYMBOL": "UJAAS"
   },
   {
-    "SYMBOLS": "UNITY"
+    "SYMBOL": "UJJIVAN"
   },
   {
-    "SYMBOLS": "UNIVASTU"
+    "SYMBOL": "UJJIVANSFB"
   },
   {
-    "SYMBOLS": "UNIVCABLES"
+    "SYMBOL": "ULTRACEMCO"
   },
   {
-    "SYMBOLS": "UNIVPHOTO"
+    "SYMBOL": "UMANGDAIRY"
   },
   {
-    "SYMBOLS": "UPL"
+    "SYMBOL": "UMESLTD"
   },
   {
-    "SYMBOLS": "URJA"
+    "SYMBOL": "UNICHEMLAB"
   },
   {
-    "SYMBOLS": "USHAMART"
+    "SYMBOL": "UNIDT"
   },
   {
-    "SYMBOLS": "UTTAMSTL"
+    "SYMBOL": "UNIENTER"
   },
   {
-    "SYMBOLS": "UTTAMSUGAR"
+    "SYMBOL": "UNIONBANK"
   },
   {
-    "SYMBOLS": "UVSL"
+    "SYMBOL": "UNITECH"
   },
   {
-    "SYMBOLS": "V2RETAIL"
+    "SYMBOL": "UNITEDTEA"
   },
   {
-    "SYMBOLS": "VADILALIND"
+    "SYMBOL": "UNITY"
   },
   {
-    "SYMBOLS": "VAIBHAVGBL"
+    "SYMBOL": "UNIVASTU"
   },
   {
-    "SYMBOLS": "VAISHALI"
+    "SYMBOL": "UNIVCABLES"
   },
   {
-    "SYMBOLS": "VAKRANGEE"
+    "SYMBOL": "UNIVPHOTO"
   },
   {
-    "SYMBOLS": "VALIANTORG"
+    "SYMBOL": "UPL"
   },
   {
-    "SYMBOLS": "VARDHACRLC"
+    "SYMBOL": "URJA"
   },
   {
-    "SYMBOLS": "VARDMNPOLY"
+    "SYMBOL": "USHAMART"
   },
   {
-    "SYMBOLS": "VARROC"
+    "SYMBOL": "UTIAMC"
   },
   {
-    "SYMBOLS": "VASCONEQ"
+    "SYMBOL": "UTTAMSTL"
   },
   {
-    "SYMBOLS": "VASWANI"
+    "SYMBOL": "UTTAMSUGAR"
   },
   {
-    "SYMBOLS": "VBL"
+    "SYMBOL": "V2RETAIL"
   },
   {
-    "SYMBOLS": "VEDL"
+    "SYMBOL": "VADILALIND"
   },
   {
-    "SYMBOLS": "VENKEYS"
+    "SYMBOL": "VAIBHAVGBL"
   },
   {
-    "SYMBOLS": "VENUSREM"
+    "SYMBOL": "VAISHALI"
   },
   {
-    "SYMBOLS": "VERTOZ"
+    "SYMBOL": "VAKRANGEE"
   },
   {
-    "SYMBOLS": "VESUVIUS"
+    "SYMBOL": "VALIANTORG"
   },
   {
-    "SYMBOLS": "VETO"
+    "SYMBOL": "VARDHACRLC"
   },
   {
-    "SYMBOLS": "VGUARD"
+    "SYMBOL": "VARDMNPOLY"
   },
   {
-    "SYMBOLS": "VHL"
+    "SYMBOL": "VARROC"
   },
   {
-    "SYMBOLS": "VICEROY"
+    "SYMBOL": "VASCONEQ"
   },
   {
-    "SYMBOLS": "VIDEOIND"
+    "SYMBOL": "VASWANI"
   },
   {
-    "SYMBOLS": "VIDHIING"
+    "SYMBOL": "VBL"
   },
   {
-    "SYMBOLS": "VIJIFIN"
+    "SYMBOL": "VEDL"
   },
   {
-    "SYMBOLS": "VIKASECO"
+    "SYMBOL": "VENKEYS"
   },
   {
-    "SYMBOLS": "VIKASMCORP"
+    "SYMBOL": "VENUSREM"
   },
   {
-    "SYMBOLS": "VIKASPROP"
+    "SYMBOL": "VERTOZ"
   },
   {
-    "SYMBOLS": "VIKASWSP"
+    "SYMBOL": "VESUVIUS"
   },
   {
-    "SYMBOLS": "VIMTALABS"
+    "SYMBOL": "VETO"
   },
   {
-    "SYMBOLS": "VINATIORGA"
+    "SYMBOL": "VGUARD"
   },
   {
-    "SYMBOLS": "VINDHYATEL"
+    "SYMBOL": "VHL"
   },
   {
-    "SYMBOLS": "VINYLINDIA"
+    "SYMBOL": "VICEROY"
   },
   {
-    "SYMBOLS": "VIPCLOTHNG"
+    "SYMBOL": "VIDEOIND"
   },
   {
-    "SYMBOLS": "VIPIND"
+    "SYMBOL": "VIDHIING"
   },
   {
-    "SYMBOLS": "VIPULLTD"
+    "SYMBOL": "VIJIFIN"
   },
   {
-    "SYMBOLS": "VISAKAIND"
+    "SYMBOL": "VIKASECO"
   },
   {
-    "SYMBOLS": "VISASTEEL"
+    "SYMBOL": "VIKASMCORP"
   },
   {
-    "SYMBOLS": "VISHAL"
+    "SYMBOL": "VIKASPROP"
   },
   {
-    "SYMBOLS": "VISHNU"
+    "SYMBOL": "VIKASWSP"
   },
   {
-    "SYMBOLS": "VISHWARAJ"
+    "SYMBOL": "VIMTALABS"
   },
   {
-    "SYMBOLS": "VIVIDHA"
+    "SYMBOL": "VINATIORGA"
   },
   {
-    "SYMBOLS": "VIVIMEDLAB"
+    "SYMBOL": "VINDHYATEL"
   },
   {
-    "SYMBOLS": "VLSFINANCE"
+    "SYMBOL": "VINYLINDIA"
   },
   {
-    "SYMBOLS": "VMART"
+    "SYMBOL": "VIPCLOTHNG"
   },
   {
-    "SYMBOLS": "VOLTAMP"
+    "SYMBOL": "VIPIND"
   },
   {
-    "SYMBOLS": "VOLTAS"
+    "SYMBOL": "VIPULLTD"
   },
   {
-    "SYMBOLS": "VRLLOG"
+    "SYMBOL": "VISAKAIND"
   },
   {
-    "SYMBOLS": "VSSL"
+    "SYMBOL": "VISASTEEL"
   },
   {
-    "SYMBOLS": "VSTIND"
+    "SYMBOL": "VISHAL"
   },
   {
-    "SYMBOLS": "VSTTILLERS"
+    "SYMBOL": "VISHNU"
   },
   {
-    "SYMBOLS": "VTL"
+    "SYMBOL": "VISHWARAJ"
   },
   {
-    "SYMBOLS": "WABAG"
+    "SYMBOL": "VIVIDHA"
   },
   {
-    "SYMBOLS": "WABCOINDIA"
+    "SYMBOL": "VIVIMEDLAB"
   },
   {
-    "SYMBOLS": "WALCHANNAG"
+    "SYMBOL": "VLSFINANCE"
   },
   {
-    "SYMBOLS": "WANBURY"
+    "SYMBOL": "VMART"
   },
   {
-    "SYMBOLS": "WATERBASE"
+    "SYMBOL": "VOLTAMP"
   },
   {
-    "SYMBOLS": "WEBELSOLAR"
+    "SYMBOL": "VOLTAS"
   },
   {
-    "SYMBOLS": "WEIZMANIND"
+    "SYMBOL": "VRLLOG"
   },
   {
-    "SYMBOLS": "WELCORP"
+    "SYMBOL": "VSSL"
   },
   {
-    "SYMBOLS": "WELENT"
+    "SYMBOL": "VSTIND"
   },
   {
-    "SYMBOLS": "WELINV"
+    "SYMBOL": "VSTTILLERS"
   },
   {
-    "SYMBOLS": "WELSPUNIND"
+    "SYMBOL": "VTL"
   },
   {
-    "SYMBOLS": "WENDT"
+    "SYMBOL": "WABAG"
   },
   {
-    "SYMBOLS": "WESTLIFE"
+    "SYMBOL": "WABCOINDIA"
   },
   {
-    "SYMBOLS": "WHEELS"
+    "SYMBOL": "WALCHANNAG"
   },
   {
-    "SYMBOLS": "WHIRLPOOL"
+    "SYMBOL": "WANBURY"
   },
   {
-    "SYMBOLS": "WILLAMAGOR"
+    "SYMBOL": "WATERBASE"
   },
   {
-    "SYMBOLS": "WINDMACHIN"
+    "SYMBOL": "WEBELSOLAR"
   },
   {
-    "SYMBOLS": "WIPL"
+    "SYMBOL": "WEIZMANIND"
   },
   {
-    "SYMBOLS": "WIPRO"
+    "SYMBOL": "WELCORP"
   },
   {
-    "SYMBOLS": "WOCKPHARMA"
+    "SYMBOL": "WELENT"
   },
   {
-    "SYMBOLS": "WONDERLA"
+    "SYMBOL": "WELINV"
   },
   {
-    "SYMBOLS": "WORTH"
+    "SYMBOL": "WELSPUNIND"
   },
   {
-    "SYMBOLS": "WSI"
+    "SYMBOL": "WENDT"
   },
   {
-    "SYMBOLS": "WSTCSTPAPR"
+    "SYMBOL": "WESTLIFE"
   },
   {
-    "SYMBOLS": "XCHANGING"
+    "SYMBOL": "WHEELS"
   },
   {
-    "SYMBOLS": "XELPMOC"
+    "SYMBOL": "WHIRLPOOL"
   },
   {
-    "SYMBOLS": "XPROINDIA"
+    "SYMBOL": "WILLAMAGOR"
   },
   {
-    "SYMBOLS": "YESBANK"
+    "SYMBOL": "WINDMACHIN"
   },
   {
-    "SYMBOLS": "ZEEL"
+    "SYMBOL": "WIPL"
   },
   {
-    "SYMBOLS": "ZEELEARN"
+    "SYMBOL": "WIPRO"
   },
   {
-    "SYMBOLS": "ZEEMEDIA"
+    "SYMBOL": "WOCKPHARMA"
   },
   {
-    "SYMBOLS": "ZENITHEXPO"
+    "SYMBOL": "WONDERLA"
   },
   {
-    "SYMBOLS": "ZENSARTECH"
+    "SYMBOL": "WORTH"
   },
   {
-    "SYMBOLS": "ZENTEC"
+    "SYMBOL": "WSI"
   },
   {
-    "SYMBOLS": "ZICOM"
+    "SYMBOL": "WSTCSTPAPR"
   },
   {
-    "SYMBOLS": "ZODIACLOTH"
+    "SYMBOL": "XCHANGING"
   },
   {
-    "SYMBOLS": "ZODJRDMKJ"
+    "SYMBOL": "XELPMOC"
   },
   {
-    "SYMBOLS": "ZOTA"
+    "SYMBOL": "XPROINDIA"
   },
   {
-    "SYMBOLS": "ZUARI"
+    "SYMBOL": "YAARII"
   },
   {
-    "SYMBOLS": "ZUARIGLOB"
+    "SYMBOL": "YESBANK"
   },
   {
-    "SYMBOLS": "ZYDUSWELL"
+    "SYMBOL": "ZEEL"
+  },
+  {
+    "SYMBOL": "ZEELEARN"
+  },
+  {
+    "SYMBOL": "ZEEMEDIA"
+  },
+  {
+    "SYMBOL": "ZENITHEXPO"
+  },
+  {
+    "SYMBOL": "ZENSARTECH"
+  },
+  {
+    "SYMBOL": "ZENTEC"
+  },
+  {
+    "SYMBOL": "ZICOM"
+  },
+  {
+    "SYMBOL": "ZODIACLOTH"
+  },
+  {
+    "SYMBOL": "ZODJRDMKJ"
+  },
+  {
+    "SYMBOL": "ZOTA"
+  },
+  {
+    "SYMBOL": "ZUARI"
+  },
+  {
+    "SYMBOL": "ZUARIGLOB"
+  },
+  {
+    "SYMBOL": "ZYDUSWELL"
   }
 ]}

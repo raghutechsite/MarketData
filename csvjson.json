@@ -21,9 +21,6 @@
     "SYMBOLS": "63MOONS"
   },
   {
-    "SYMBOLS": "8KMILES"
-  },
-  {
     "SYMBOLS": "A2ZINFRA"
   },
   {
@@ -81,10 +78,10 @@
     "SYMBOLS": "ACE"
   },
   {
-    "SYMBOLS": "ADANIENT"
+    "SYMBOLS": "ACRYSIL"
   },
   {
-    "SYMBOLS": "ADANIGAS"
+    "SYMBOLS": "ADANIENT"
   },
   {
     "SYMBOLS": "ADANIGREEN"
@@ -129,6 +126,9 @@
     "SYMBOLS": "AFFLE"
   },
   {
+    "SYMBOLS": "AFL-RE"
+  },
+  {
     "SYMBOLS": "AGARIND"
   },
   {
@@ -139,6 +139,9 @@
   },
   {
     "SYMBOLS": "AGROPHOS"
+  },
+  {
+    "SYMBOLS": "AHLADA"
   },
   {
     "SYMBOLS": "AHLEAST"
@@ -165,6 +168,9 @@
     "SYMBOLS": "AKASH"
   },
   {
+    "SYMBOLS": "AKG"
+  },
+  {
     "SYMBOLS": "AKSHARCHEM"
   },
   {
@@ -178,9 +184,6 @@
   },
   {
     "SYMBOLS": "ALBERTDAVD"
-  },
-  {
-    "SYMBOLS": "ALCHEM"
   },
   {
     "SYMBOLS": "ALEMBICLTD"
@@ -312,9 +315,6 @@
     "SYMBOLS": "ARCHIES"
   },
   {
-    "SYMBOLS": "ARCOTECH"
-  },
-  {
     "SYMBOLS": "ARENTERP"
   },
   {
@@ -414,10 +414,10 @@
     "SYMBOLS": "ATFL"
   },
   {
-    "SYMBOLS": "ATLANTA"
+    "SYMBOLS": "ATGL"
   },
   {
-    "SYMBOLS": "ATLASCYCLE"
+    "SYMBOLS": "ATLANTA"
   },
   {
     "SYMBOLS": "ATUL"
@@ -454,6 +454,9 @@
   },
   {
     "SYMBOLS": "AVTNPL"
+  },
+  {
+    "SYMBOLS": "AWHCL"
   },
   {
     "SYMBOLS": "AXISBANK"
@@ -570,6 +573,9 @@
     "SYMBOLS": "BCG"
   },
   {
+    "SYMBOLS": "BCLIND"
+  },
+  {
     "SYMBOLS": "BCP"
   },
   {
@@ -577,6 +583,9 @@
   },
   {
     "SYMBOLS": "BEARDSELL"
+  },
+  {
+    "SYMBOLS": "BECTORFOOD"
   },
   {
     "SYMBOLS": "BEDMUTHA"
@@ -592,6 +601,9 @@
   },
   {
     "SYMBOLS": "BERGEPAINT"
+  },
+  {
+    "SYMBOLS": "BESTAGRO"
   },
   {
     "SYMBOLS": "BFINVEST"
@@ -639,9 +651,6 @@
     "SYMBOLS": "BIL"
   },
   {
-    "SYMBOLS": "BILENERGY"
-  },
-  {
     "SYMBOLS": "BINDALAGRO"
   },
   {
@@ -676,6 +685,9 @@
   },
   {
     "SYMBOLS": "BLS"
+  },
+  {
+    "SYMBOLS": "BLUECHIP"
   },
   {
     "SYMBOLS": "BLUEDART"
@@ -849,9 +861,6 @@
     "SYMBOLS": "CESC"
   },
   {
-    "SYMBOLS": "CESCVENT"
-  },
-  {
     "SYMBOLS": "CGCL"
   },
   {
@@ -880,9 +889,6 @@
   },
   {
     "SYMBOLS": "CHOLAHLDNG"
-  },
-  {
-    "SYMBOLS": "CHROMATIC"
   },
   {
     "SYMBOLS": "CIGNITITEC"
@@ -991,6 +997,9 @@
   },
   {
     "SYMBOLS": "CUPID"
+  },
+  {
+    "SYMBOLS": "CYBERMEDIA"
   },
   {
     "SYMBOLS": "CYBERTECH"
@@ -1107,16 +1116,10 @@
     "SYMBOLS": "DIAMONDYD"
   },
   {
-    "SYMBOLS": "DIAPOWER"
-  },
-  {
     "SYMBOLS": "DICIND"
   },
   {
     "SYMBOLS": "DIGISPICE"
-  },
-  {
-    "SYMBOLS": "DIGJAMLTD"
   },
   {
     "SYMBOLS": "DISHTV"
@@ -1137,9 +1140,6 @@
     "SYMBOLS": "DMART"
   },
   {
-    "SYMBOLS": "DNAMEDIA"
-  },
-  {
     "SYMBOLS": "DOLAT"
   },
   {
@@ -1158,7 +1158,7 @@
     "SYMBOLS": "DPWIRES"
   },
   {
-    "SYMBOLS": "DQE"
+    "SYMBOLS": "DRCSYSTEMS"
   },
   {
     "SYMBOLS": "DREDGECORP"
@@ -1296,9 +1296,6 @@
     "SYMBOLS": "ESTER"
   },
   {
-    "SYMBOLS": "EUROMULTI"
-  },
-  {
     "SYMBOLS": "EUROTEXIND"
   },
   {
@@ -1321,6 +1318,9 @@
   },
   {
     "SYMBOLS": "FACT"
+  },
+  {
+    "SYMBOLS": "FAIRCHEMOR"
   },
   {
     "SYMBOLS": "FCL"
@@ -1428,9 +1428,6 @@
     "SYMBOLS": "GANGESSECU"
   },
   {
-    "SYMBOLS": "GARDENSILK"
-  },
-  {
     "SYMBOLS": "GARFIBRES"
   },
   {
@@ -1453,6 +1450,9 @@
   },
   {
     "SYMBOLS": "GEEKAYWIRE"
+  },
+  {
+    "SYMBOLS": "GENCON"
   },
   {
     "SYMBOLS": "GENESYS"
@@ -1563,6 +1563,9 @@
     "SYMBOLS": "GODFRYPHLP"
   },
   {
+    "SYMBOLS": "GODHA"
+  },
+  {
     "SYMBOLS": "GODREJAGRO"
   },
   {
@@ -1591,9 +1594,6 @@
   },
   {
     "SYMBOLS": "GOLDIAM"
-  },
-  {
-    "SYMBOLS": "GOLDTECH"
   },
   {
     "SYMBOLS": "GOODLUCK"
@@ -1701,9 +1701,6 @@
     "SYMBOLS": "GULPOLY"
   },
   {
-    "SYMBOLS": "GVKPIL"
-  },
-  {
     "SYMBOLS": "HAL"
   },
   {
@@ -1768,6 +1765,9 @@
   },
   {
     "SYMBOLS": "HEMIPROP"
+  },
+  {
+    "SYMBOLS": "HERANBA"
   },
   {
     "SYMBOLS": "HERCULES"
@@ -1848,6 +1848,9 @@
     "SYMBOLS": "HITECHGEAR"
   },
   {
+    "SYMBOLS": "HLEGLAS"
+  },
+  {
     "SYMBOLS": "HLVLTD"
   },
   {
@@ -1858,6 +1861,9 @@
   },
   {
     "SYMBOLS": "HNDFDS"
+  },
+  {
+    "SYMBOLS": "HOMEFIRST"
   },
   {
     "SYMBOLS": "HONAUT"
@@ -2010,6 +2016,9 @@
     "SYMBOLS": "INDIGO"
   },
   {
+    "SYMBOLS": "INDIGOPNTS"
+  },
+  {
     "SYMBOLS": "INDLMETER"
   },
   {
@@ -2043,10 +2052,16 @@
     "SYMBOLS": "INDSWFTLAB"
   },
   {
+    "SYMBOLS": "INDSWFTLTD"
+  },
+  {
     "SYMBOLS": "INDTERRAIN"
   },
   {
     "SYMBOLS": "INDUSINDBK"
+  },
+  {
+    "SYMBOLS": "INDUSTOWER"
   },
   {
     "SYMBOLS": "INEOSSTYRO"
@@ -2058,7 +2073,7 @@
     "SYMBOLS": "INFOBEAN"
   },
   {
-    "SYMBOLS": "INFRATEL"
+    "SYMBOLS": "INFOMEDIA"
   },
   {
     "SYMBOLS": "INFY"
@@ -2112,6 +2127,12 @@
     "SYMBOLS": "IRCTC"
   },
   {
+    "SYMBOLS": "IRFC"
+  },
+  {
+    "SYMBOLS": "IRISDOREME"
+  },
+  {
     "SYMBOLS": "ISEC"
   },
   {
@@ -2155,9 +2176,6 @@
   },
   {
     "SYMBOLS": "JAICORPLTD"
-  },
-  {
-    "SYMBOLS": "JAIHINDPRO"
   },
   {
     "SYMBOLS": "JAINSTUDIO"
@@ -2268,9 +2286,6 @@
     "SYMBOLS": "JPINFRATEC"
   },
   {
-    "SYMBOLS": "JPOLYINVST"
-  },
-  {
     "SYMBOLS": "JPPOWER"
   },
   {
@@ -2295,13 +2310,13 @@
     "SYMBOLS": "JTEKTINDIA"
   },
   {
-    "SYMBOLS": "JUBILANT"
-  },
-  {
     "SYMBOLS": "JUBLFOOD"
   },
   {
     "SYMBOLS": "JUBLINDS"
+  },
+  {
+    "SYMBOLS": "JUBLPHARMA"
   },
   {
     "SYMBOLS": "JUMPNET"
@@ -2311,9 +2326,6 @@
   },
   {
     "SYMBOLS": "JYOTHYLAB"
-  },
-  {
-    "SYMBOLS": "JYOTISTRUC"
   },
   {
     "SYMBOLS": "KABRAEXTRU"
@@ -2344,6 +2356,9 @@
   },
   {
     "SYMBOLS": "KANORICHEM"
+  },
+  {
+    "SYMBOLS": "KANPRPLA"
   },
   {
     "SYMBOLS": "KANSAINER"
@@ -2499,9 +2514,6 @@
     "SYMBOLS": "KSCL"
   },
   {
-    "SYMBOLS": "KSK"
-  },
-  {
     "SYMBOLS": "KSL"
   },
   {
@@ -2509,9 +2521,6 @@
   },
   {
     "SYMBOLS": "KUANTUM"
-  },
-  {
-    "SYMBOLS": "KWALITY"
   },
   {
     "SYMBOLS": "L&TFH"
@@ -2817,13 +2826,13 @@
     "SYMBOLS": "METALFORGE"
   },
   {
-    "SYMBOLS": "METKORE"
-  },
-  {
     "SYMBOLS": "METROPOLIS"
   },
   {
     "SYMBOLS": "MFSL"
+  },
+  {
+    "SYMBOLS": "MGEL"
   },
   {
     "SYMBOLS": "MGL"
@@ -3150,6 +3159,9 @@
     "SYMBOLS": "NUCLEUS"
   },
   {
+    "SYMBOLS": "NURECA"
+  },
+  {
     "SYMBOLS": "NXTDIGITAL"
   },
   {
@@ -3171,12 +3183,6 @@
     "SYMBOLS": "OILCOUNTUB"
   },
   {
-    "SYMBOLS": "OISL"
-  },
-  {
-    "SYMBOLS": "OISL"
-  },
-  {
     "SYMBOLS": "OLECTRA"
   },
   {
@@ -3186,7 +3192,10 @@
     "SYMBOLS": "OMAXE"
   },
   {
-    "SYMBOLS": "OMMETALS"
+    "SYMBOLS": "OMINFRAL"
+  },
+  {
+    "SYMBOLS": "OMKARCHEM"
   },
   {
     "SYMBOLS": "ONELIFECAP"
@@ -3252,9 +3261,6 @@
     "SYMBOLS": "ORTEL"
   },
   {
-    "SYMBOLS": "ORTINLABSS"
-  },
-  {
     "SYMBOLS": "OSWALAGRO"
   },
   {
@@ -3280,9 +3286,6 @@
   },
   {
     "SYMBOLS": "PANAMAPET"
-  },
-  {
-    "SYMBOLS": "PARABDRUGS"
   },
   {
     "SYMBOLS": "PARACABLES"
@@ -3495,9 +3498,6 @@
     "SYMBOLS": "PRIVISCL"
   },
   {
-    "SYMBOLS": "PROSEED"
-  },
-  {
     "SYMBOLS": "PROZONINTU"
   },
   {
@@ -3543,10 +3543,16 @@
     "SYMBOLS": "RADIOCITY"
   },
   {
+    "SYMBOLS": "RAILTEL"
+  },
+  {
     "SYMBOLS": "RAIN"
   },
   {
     "SYMBOLS": "RAJESHEXPO"
+  },
+  {
+    "SYMBOLS": "RAJMET"
   },
   {
     "SYMBOLS": "RAJRATAN"
@@ -3580,9 +3586,6 @@
   },
   {
     "SYMBOLS": "RAMKY"
-  },
-  {
-    "SYMBOLS": "RAMSARUP"
   },
   {
     "SYMBOLS": "RANASUG"
@@ -3675,6 +3678,9 @@
     "SYMBOLS": "RKDL"
   },
   {
+    "SYMBOLS": "RKEC"
+  },
+  {
     "SYMBOLS": "RKFORGE"
   },
   {
@@ -3720,6 +3726,9 @@
     "SYMBOLS": "RPPINFRA"
   },
   {
+    "SYMBOLS": "RPSGVENT"
+  },
+  {
     "SYMBOLS": "RSSOFTWARE"
   },
   {
@@ -3751,6 +3760,9 @@
   },
   {
     "SYMBOLS": "RUSHIL"
+  },
+  {
+    "SYMBOLS": "RVHL"
   },
   {
     "SYMBOLS": "RVNL"
@@ -3891,10 +3903,10 @@
     "SYMBOLS": "SEAMECLTD"
   },
   {
-    "SYMBOLS": "SELAN"
+    "SYMBOLS": "SECURKLOUD"
   },
   {
-    "SYMBOLS": "SELMCL"
+    "SYMBOLS": "SELAN"
   },
   {
     "SYMBOLS": "SEPOWER"
@@ -3958,9 +3970,6 @@
   },
   {
     "SYMBOLS": "SHILPAMED"
-  },
-  {
-    "SYMBOLS": "SHIRPUR-G"
   },
   {
     "SYMBOLS": "SHIVAMAUTO"
@@ -4032,6 +4041,9 @@
     "SYMBOLS": "SIL"
   },
   {
+    "SYMBOLS": "SILGO"
+  },
+  {
     "SYMBOLS": "SILINV"
   },
   {
@@ -4080,10 +4092,10 @@
     "SYMBOLS": "SMARTLINK"
   },
   {
-    "SYMBOLS": "SMLISUZU"
+    "SYMBOLS": "SMCGLOBAL"
   },
   {
-    "SYMBOLS": "SMPL"
+    "SYMBOLS": "SMLISUZU"
   },
   {
     "SYMBOLS": "SMSLIFE"
@@ -4161,6 +4173,9 @@
     "SYMBOLS": "SPTL"
   },
   {
+    "SYMBOLS": "SPYL"
+  },
+  {
     "SYMBOLS": "SREEL"
   },
   {
@@ -4212,6 +4227,9 @@
     "SYMBOLS": "STLTECH"
   },
   {
+    "SYMBOLS": "STOVEKRAFT"
+  },
+  {
     "SYMBOLS": "SUBCAPCITY"
   },
   {
@@ -4222,9 +4240,6 @@
   },
   {
     "SYMBOLS": "SUDARSCHEM"
-  },
-  {
-    "SYMBOLS": "SUJANAUNI"
   },
   {
     "SYMBOLS": "SUMEETINDS"
@@ -4285,9 +4300,6 @@
   },
   {
     "SYMBOLS": "SUPREMEIND"
-  },
-  {
-    "SYMBOLS": "SUPREMEINF"
   },
   {
     "SYMBOLS": "SURANASOL"
@@ -4354,6 +4366,9 @@
   },
   {
     "SYMBOLS": "TANTIACONS"
+  },
+  {
+    "SYMBOLS": "TARC"
   },
   {
     "SYMBOLS": "TARMAT"
@@ -4438,9 +4453,6 @@
   },
   {
     "SYMBOLS": "TECHNOE"
-  },
-  {
-    "SYMBOLS": "TECHNOFAB"
   },
   {
     "SYMBOLS": "TEJASNET"
@@ -4875,6 +4887,9 @@
     "SYMBOLS": "WATERBASE"
   },
   {
+    "SYMBOLS": "WEALTH"
+  },
+  {
     "SYMBOLS": "WEBELSOLAR"
   },
   {
@@ -4959,13 +4974,13 @@
     "SYMBOLS": "ZENITHEXPO"
   },
   {
+    "SYMBOLS": "ZENITHSTL"
+  },
+  {
     "SYMBOLS": "ZENSARTECH"
   },
   {
     "SYMBOLS": "ZENTEC"
-  },
-  {
-    "SYMBOLS": "ZICOM"
   },
   {
     "SYMBOLS": "ZODIACLOTH"
@@ -4985,5 +5000,4 @@
   {
     "SYMBOLS": "ZYDUSWELL"
   }
-]
-}
+]}

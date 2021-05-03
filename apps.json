@@ -18,13 +18,21 @@
 	{
 		"slno":"2",
 		"name":"OHL Scanner",
-		"status":"nactive",
+		"status":"active",
 		"url": "com.techsite.fibonaccilevels",
 		"desc":"null",
 		"apppackage":"com.techsite.highlowscanner"
 	},
-	{
+{
 		"slno":"3",
+		"name":"Rangebreakout",
+		"status":"active",
+		"url": "com.techsite.rangebreakout",
+		"desc":"null",
+		"apppackage":"com.techsite.rangebreakout"
+	},
+	{
+		"slno":"4",
 		"name":"Fibonacci levels & retrace",
 		"status":"active",
 		"url": "null",
